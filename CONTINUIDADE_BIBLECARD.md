@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 2.5  
+**Versão:** 2.6  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -182,8 +182,12 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 - **050 — Sarai (Sara):** arte aprovada e download confirmado. Aparência baseada na referência do usuário, na faixa etária solicitada, com feições embelezadas; cabelos claros ondulados, véu vinho com detalhes dourados e vestimenta vermelha/laranja; acampamento patriarcal ao fundo.
 - **051 — Ló:** arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: homem idoso, cabelos grisalhos longos e ondulados, barba branca volumosa, nariz proeminente, rosto marcado pela idade e perfil lateral voltado à direita; manto terroso; vale com rebanhos, tendas e povoado ao fundo.
 
+### Estado atualizado — cartas 051 e 052
+- **051 — Ló:** arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: homem idoso, cabelos grisalhos longos e ondulados, barba branca volumosa, nariz proeminente, rosto marcado pela idade e perfil lateral voltado à direita; manto terroso; vale com rebanhos, tendas e povoado ao fundo.
+- **052 — Ismael:** arte frente e verso aprovada e download confirmado. Homem adulto de porte atlético, cabelos escuros longos e ondulados, barba cheia, vestimenta rústica em tons terrosos e lenço claro; arco e aljava; acampamento desértico com camelos e montanhas ao pôr do sol.
+
 ### Próximo personagem
-**052 — Ismael.** Filho de Abraão e Agar. Referências-base: Gênesis 16:1–16; 17:18–27; 21:8–21; 25:12–18. Distinguir os relatos bíblicos das tradições posteriores sobre os ismaelitas.
+**053 — Isaque.** Filho de Abraão e Sara, herdeiro da promessa. Referências-base: Gênesis 17:15–21; 21:1–7; 22:1–19; 24:1–67; 25:19–26. Manter distinção entre o episódio do sacrifício impedido e qualquer interpretação artística.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -199,7 +203,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara) e 051 — Ló foram aprovadas e baixadas. A próxima é 052 — Ismael. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló e 052 — Ismael foram aprovadas e baixadas. A próxima é 053 — Isaque. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

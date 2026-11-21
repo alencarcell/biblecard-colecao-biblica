@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 3.8  
+**Versão:** 3.9  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -222,8 +222,14 @@ Seguir a linha genealógica masculina documentada nas Escrituras, mas incluir ta
 ### Estado atualizado — carta 061
 - **061 — Hezrom:** versão revisada aprovada e download confirmado. Retrato inspirado na fotografia de referência do usuário: cabelo escuro ondulado com fios grisalhos, barba mais completa e volumosa também grisalha; roupa antiga em tons creme e azul; povoado de Canaã ao fundo. Verso destaca filho de Peres, pai de Ram e elo da genealogia messiânica (Gênesis 46:12; Rute 4:18–19; Mateus 1:3–4).
 
+### Estado atualizado — carta 062
+- **062 — Ram:** arte frente e verso aprovada e download confirmado. Aparência inspirada na referência masculina enviada: cabelo escuro curto, bigode mais volumoso, barba cheia com fios grisalhos; túnica e manto de época, cenário de povoado antigo. Verso identifica Ram como filho de Hezrom e pai de Aminadabe, elo da genealogia messiânica (Rute 4:19–20; 1 Crônicas 2:9–10; Mateus 1:3–4).
+
+### Regra adicional — relevância das esposas
+Em cada geração da linhagem messiânica, pesquisar também se a esposa é identificada nas Escrituras e se tem relevância narrativa, genealógica ou histórica. Quando houver relevância documentada, lembrar o usuário e propor uma carta própria ou inclusão em sequência adequada. Não inventar esposas nem atribuir importância sem base bíblica. Se a esposa não for nomeada ou não houver dados suficientes, informar isso claramente.
+
 ### Próximo personagem
-**062 — Ram.** Filho de Hezrom e ancestral de Aminadabe na genealogia de Rute 4:19–20 e Mateus 1:3–4. Pesquisar também 1 Crônicas 2:9–10. Confirmar a posição e possíveis variantes de nome antes de avançar.
+**063 — Aminadabe.** Filho de Ram e pai de Naassom, elo da genealogia messiânica. Pesquisar Rute 4:19–20; 1 Crônicas 2:10; Mateus 1:4; Lucas 3:33. Verificar também se há esposa identificada nas fontes bíblicas e avaliar sua relevância antes de avançar.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -239,7 +245,7 @@ Seguir a linha genealógica masculina documentada nas Escrituras, mas incluir ta
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A carta 058 — Judá foi aprovada e baixada. A carta 059 — Tamar foi aprovada e o download confirmado. A carta 060 — Peres foi aprovada e baixada. A carta 061 — Hezrom foi aprovada e baixada. A próxima é 062 — Ram, filho de Hezrom. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A carta 058 — Judá foi aprovada e baixada. A carta 059 — Tamar foi aprovada e o download confirmado. A carta 060 — Peres foi aprovada e baixada. A carta 061 — Hezrom foi aprovada e baixada. A carta 062 — Ram foi aprovada e baixada. A próxima é 063 — Aminadabe, filho de Ram. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

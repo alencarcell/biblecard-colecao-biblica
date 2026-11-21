@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 048 — Tera  
-**Próxima prevista:** 049 — Abrão (Abraão)
+**Última carta aprovada:** 049 — Abrão (Abraão)  
+**Próxima prevista:** 050 — Sarai (Sara)
 
 ## Legenda de status
 - Planejamento
@@ -56,7 +56,8 @@
 - **046 — Serugue:** arte aprovada e download confirmado.
 - **047 — Naor (filho de Serugue):** arte aprovada e download confirmado.
 - **048 — Tera:** versão revisada aprovada e download confirmado.
-- **049 — Abrão (Abraão):** filho de Tera; iniciar a narrativa patriarcal. Pesquisar Gênesis 11:26–32; 12:1–9; 17:1–8 e Josué 24:2–3. Observar a mudança de nome de Abrão para Abraão em Gênesis 17:5.
+- **049 — Abrão (Abraão):** arte aprovada e download confirmado. Cena de Gênesis 22 com anjo intervindo; aparência inspirada na referência fornecida pelo usuário.
+- **050 — Sarai (Sara):** esposa de Abrão/Abraão; incluir como personagem feminina central da narrativa patriarcal. Pesquisar Gênesis 11:29–31; 12:4–20; 17:15–16; 18:9–15; 21:1–7. Observar a mudança de nome de Sarai para Sara.
 
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.
@@ -72,3 +73,5 @@
 
 ## Diretriz editorial adicional — personagens femininas
 As personagens femininas serão incluídas desde os primeiros relatos bíblicos, seguindo a ordem cronológica/genealógica. Não serão adiadas até Abraão. Exemplos anteriores a Abraão incluem Eva, Ada, Zilá e Naamá, sempre respeitando o conteúdo efetivamente registrado nas Escrituras.
+
+| 049 | Abrão (Abraão) | Arte frente e verso aprovada e download confirmado. Aparência inspirada na referência do usuário: barba grisalha, lenço sobre a cabeça e manto; cena de Gênesis 22 com Isaque sobre o altar e anjo intervindo para impedir o sacrifício. | Aprovada e baixada |

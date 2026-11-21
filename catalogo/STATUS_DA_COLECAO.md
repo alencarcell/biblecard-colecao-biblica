@@ -98,3 +98,10 @@ As personagens femininas serão incluídas desde os primeiros relatos bíblicos,
 | 056 | Jacó (Israel) | Versão revisada com proporção padronizada aprovada e download confirmado. Frente e verso com dimensões iguais no padrão vertical 4 × 5,5 cm; cena noturna no rio Jaboque, Jacó lutando com o anjo. | Aprovada e baixada |
 
 | 057 | Lia | Arte aprovada e download confirmado. Retrato em Harã, cabelos escuros longos e trançados, véu dourado e manto vinho. Verso destaca seus seis filhos, Diná e especialmente Judá como elo da linhagem messiânica (Gênesis 49:8–10; Mateus 1:1–3, 16; Lucas 3:33). | Aprovada e baixada |
+
+
+## Critério de sequência da linhagem messiânica
+A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, mantendo os homens da genealogia como espinha dorsal e incluindo as mulheres que a Bíblia destaca no ponto correto da história. Incluir cônjuges quando identificados biblicamente. Sequência inicial prevista: Judá e Tamar → Peres → (gerações intermediárias conforme genealogias) → Salmon e Raabe → Boaz e Rute → Obede → Jessé → Davi → descendentes até Jesus. Confirmar cada elo em Gênesis 38; Rute 4:18–22; 1 Crônicas 2; Mateus 1:1–16 e Lucas 3:23–34. Não omitir mulheres relevantes nem inventar relações. Depois de chegar a Jesus, retomar outras ramificações em etapa posterior.
+
+- **057 — Lia:** arte aprovada e download confirmado.
+- **058 — Judá:** próxima carta; filho de Jacó e Lia, elo central da linhagem messiânica. Referências: Gênesis 29:35; 38; 49:8–10; Mateus 1:2–3; Lucas 3:33.

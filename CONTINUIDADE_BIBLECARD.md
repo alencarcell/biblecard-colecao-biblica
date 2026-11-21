@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 1.0  
+**Versão:** 1.1  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -136,8 +136,12 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 | 035 | Caftorim | Frente e verso aprovados pelo usuário; download confirmado. Aparência: porte mediano, ágil e definido; rosto fino; cabelo longo ondulado parcialmente preso; bigode fino sem barba; porto antigo com embarcações. | Aprovada e baixada |
 | 036 | Sídon | Frente e verso gerados e aprovados pelo usuário. Alto, ombros largos e robusto; rosto oval envelhecido; cabelo curto ondulado grisalho; barba longa e volumosa grisalha; muralhas da cidade com vista para o mar. | Aprovada; download não confirmado |
 
+### Estado atualizado — cartas 037 e 038
+- **037 — Hete (Heth):** arte gerada; aguarda aprovação do usuário. Aparência escolhida: baixo e compacto, musculoso; rosto quadrado, nariz largo e queixo forte; cabelo curto crespo escuro e barba curta; entrada de cidade antiga fortificada.
+- **038 — Jebuseus:** segunda versão aprovada pelo usuário. A primeira versão foi rejeitada por semelhança visual e pose repetitiva. A versão aprovada usa composição narrativa em plano aberto: homem de corpo inteiro, inclinado, enchendo uma ânfora em estrutura de água; outras pessoas e cidade fortificada ao fundo. A aprovação não confirma download; manter status “Aprovada” até validar o acesso ao arquivo.
+
 ### Próximo personagem
-**037 — Hete (Heth).** Antes de produzir, apresentar contexto baseado em Gênesis 10:15, 1 Crônicas 1:13 e publicações pertinentes do jw.org; depois definir aparência com o usuário.
+**039 — Amoritas.** Seguir a genealogia de Canaã em Gênesis 10:16, após Jebuseus. Antes de produzir, pesquisar a TNM e as publicações pertinentes do jw.org; apresentar contexto e definir aparência com o usuário.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -153,7 +157,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim e 036 — Sídon foram aprovadas; o download de Caftorim foi confirmado. O próximo nome na sequência genealógica é 037 — Hete (Heth). Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon e 038 — Jebuseus foram aprovadas; o download de Caftorim foi confirmado. A carta 037 — Hete (Heth) ainda aguarda aprovação. O próximo personagem após Jebuseus é 039 — Amoritas. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

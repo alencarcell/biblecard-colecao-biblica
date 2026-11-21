@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 064 — Naassom  
-**Próxima prevista:** 065 — Salmon
+**Última carta aprovada:** 065 — Salmon  
+**Próxima prevista:** 066 — Raabe
 
 ## Legenda de status
 - Planejamento
@@ -114,7 +114,8 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 - **062 — Ram:** arte aprovada e download confirmado.
 - **063 — Aminadabe:** arte aprovada e download confirmado. A Bíblia não informa o nome de sua esposa.
 - **064 — Naassom:** arte aprovada e download confirmado. A Bíblia não informa o nome de sua esposa.
-- **065 — Salmon:** filho de Naassom e marido de Raabe; pai de Boaz. Raabe tem relevância narrativa e genealógica e deve receber carta própria, junto de Salmon em sequência adequada. Pesquisar Josué 2; 6:22–25; Rute 4:20–21; Mateus 1:4–5; Lucas 3:32.
+- **065 — Salmon:** arte aprovada e download confirmado.
+- **066 — Raabe:** esposa de Salmon e mãe de Boaz, mulher de destaque na narrativa da conquista de Jericó e na genealogia de Jesus. Pesquisar Josué 2; 6:22–25; Mateus 1:5; Hebreus 11:31; Tiago 2:25.
 
 | 059 | Tamar | Arte frente e verso aprovada e download confirmado. Retrato inspirado na referência do usuário: véu vermelho-terracota bordado em dourado, vestimenta azul e creme; cenário ilustrado de povoado antigo, tendas e arquitetura de Canaã. Verso destaca Gênesis 38, o reconhecimento de Judá e a maternidade de Peres e Zerá, com Peres identificado como elo da linhagem messiânica (Rute 4:12, 18; Mateus 1:3). | Aprovada e baixada |
 
@@ -127,3 +128,5 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 | 063 | Aminadabe | Arte aprovada e download confirmado. Retrato inspirado na referência masculina enviada: cabelo escuro, barba e bigode cheios; vestimenta antiga e povoado de Canaã. Verso identifica-o como filho de Ram e pai de Naassom, elo da genealogia messiânica (Rute 4:19–20; 1 Crônicas 2:10; Mateus 1:4; Lucas 3:33). A Bíblia não informa o nome de sua esposa. | Aprovada e baixada |
 
 | 064 | Naassom | Arte frente e verso aprovada e download confirmado. Retrato inspirado na referência enviada: homem maduro, cabelo curto grisalho e barba rala branca; túnica creme bordada em azul e dourado, manto azul-escuro; acampamento israelita no deserto com tendas e Tabernáculo ao fundo. Verso destaca filho de Aminadabe, pai de Salmon e chefe da tribo de Judá durante a jornada no deserto (Números 1:7; 2:3; 7:12; 10:14; Rute 4:20–21; Mateus 1:4–5). A Bíblia não informa o nome de sua esposa. | Aprovada e baixada |
+
+| 065 | Salmon | Arte frente e verso aprovada e download confirmado. Retrato inspirado na referência enviada: cabelos escuros, volumosos e ondulados; barba e bigode de volume intermediário, um pouco mais cheios; vestimenta antiga em bege e vinho, cenário de povoado antigo. Verso destaca filho de Naassom, esposo de Raabe e pai de Boaz, na linhagem messiânica (Rute 4:20–21; Mateus 1:5). | Aprovada e baixada |

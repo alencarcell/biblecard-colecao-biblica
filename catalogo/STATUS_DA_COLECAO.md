@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 070 — Jessé  
-**Próxima prevista:** 071 — Davi
+**Última carta aprovada:** 071 — Davi  
+**Próxima prevista:** 072 — Salomão
 
 ## Legenda de status
 - Planejamento
@@ -144,3 +144,9 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 ## Próximo passo
 - **071 — Davi:** próxima carta da linhagem messiânica. Pesquisar a genealogia e os relatos relevantes antes de definir o conteúdo e a aparência.
 - Verificar a relevância das mulheres ligadas à geração de Davi; Bate-Seba merece atenção especial por sua ligação com Salomão e com a linhagem apresentada em Mateus 1:6.
+
+
+## Atualização de continuidade — carta 071
+- **071 — Davi:** frente e verso aprovados e download confirmado pelo usuário. A frente usa a cena escolhida de Davi lançando a pedra com a funda contra Golias; aparência inspirada na referência facial enviada, com pele mais clara, cabelo ruivo-claro e roupas coerentes com o período. O verso destaca sua unção, vitória sobre Golias, reinado, estabelecimento de Jerusalém, salmos e linhagem messiânica (1 Samuel 16–17; 2 Samuel 5–8; Salmo 23; 51; Mateus 1:6).
+- **Próxima carta: 072 — Salomão.** Pesquisar sua posição na linhagem e sua história antes de definir o conteúdo.
+- **Mulher relevante a incluir:** Bate-Seba, mãe de Salomão e mencionada na genealogia de Mateus 1:6 como “a esposa de Urias”. Avaliar carta própria em posição adequada, sem antecipar ou inventar dados.

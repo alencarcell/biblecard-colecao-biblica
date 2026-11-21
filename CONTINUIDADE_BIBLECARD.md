@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 4.0  
+**Versão:** 4.1  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -232,7 +232,10 @@ Em cada geração da linhagem messiânica, pesquisar também se a esposa é iden
 - **063 — Aminadabe:** arte aprovada e download confirmado. Retrato inspirado na referência masculina enviada: cabelo escuro, barba e bigode cheios; vestimenta antiga e povoado de Canaã. Verso identifica-o como filho de Ram e pai de Naassom, elo da genealogia messiânica (Rute 4:19–20; 1 Crônicas 2:10; Mateus 1:4; Lucas 3:33). A Bíblia não informa o nome de sua esposa.
 
 ### Próximo personagem
-**064 — Naassom.** Filho de Aminadabe e pai de Salmon, chefe da tribo de Judá durante a jornada no deserto. Pesquisar Números 1:7; 2:3; 7:12; 10:14; Rute 4:20–21; 1 Crônicas 2:10–11; Mateus 1:4–5; Lucas 3:32. Verificar também se há esposa identificada e relevante.
+**064 — Naassom:** arte aprovada e download confirmado. Retrato inspirado na referência enviada: homem maduro, cabelo curto grisalho e barba rala branca; túnica creme bordada em azul e dourado, manto azul-escuro; acampamento israelita no deserto com tendas e Tabernáculo ao fundo. A Bíblia não informa o nome de sua esposa.
+
+### Próximo personagem
+**065 — Salmon.** Filho de Naassom, marido de Raabe e pai de Boaz. Raabe tem relevância narrativa e genealógica e deve receber carta própria, em sequência adequada. Pesquisar Josué 2; 6:22–25; Rute 4:20–21; Mateus 1:4–5; Lucas 3:32.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -248,8 +251,12 @@ Em cada geração da linhagem messiânica, pesquisar também se a esposa é iden
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A carta 058 — Judá foi aprovada e baixada. A carta 059 — Tamar foi aprovada e o download confirmado. A carta 060 — Peres foi aprovada e baixada. A carta 061 — Hezrom foi aprovada e baixada. A carta 062 — Ram foi aprovada e baixada. A carta 063 — Aminadabe foi aprovada e baixada. A próxima é 064 — Naassom, filho de Aminadabe. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A carta 058 — Judá foi aprovada e baixada. A carta 059 — Tamar foi aprovada e o download confirmado. A carta 060 — Peres foi aprovada e baixada. A carta 061 — Hezrom foi aprovada e baixada. A carta 062 — Ram foi aprovada e baixada. A carta 063 — Aminadabe foi aprovada e baixada. A carta 064 — Naassom foi aprovada e baixada. A próxima é 065 — Salmon, marido de Raabe. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 
 **Regra central:** a fidelidade às Escrituras e às publicações oficiais, a clareza didática e a continuidade do catálogo têm prioridade sobre efeitos visuais ou detalhes históricos não comprovados.
+
+
+### Próxima mulher relevante na linhagem
+A esposa de Salmon, Raabe, é uma personagem de destaque bíblico e genealógico. Incluir sua carta própria na sequência, conforme Josué 2; 6:22–25 e Mateus 1:5.

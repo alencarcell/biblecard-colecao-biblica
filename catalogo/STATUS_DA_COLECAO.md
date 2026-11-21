@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 042 — Selá  
-**Próxima prevista:** 043 — Éber
+**Última carta aprovada:** 043 — Éber  
+**Próxima prevista:** 044 — Pelegue
 
 ## Legenda de status
 - Planejamento
@@ -34,6 +34,7 @@
 | 040 | Girgashitas | Arte aprovada e download confirmado. Composição em oficina de cerâmica: homem de porte esguio, rosto triangular, queixo fino, cabelo crespo curto parcialmente preso e bigode discreto sem barba cheia; trabalhando em peça de cerâmica, forno e oficina ao fundo. | Aprovada e baixada |
 | 041 | Arpaxade | Arte aprovada e download confirmado. Representação artística de patriarca alto e magro, em cenário pós-Dilúvio com família, animais, rio, reconstrução de moradias e arco-íris; contexto simbólico, não evento pessoal descrito no relato. | Aprovada e baixada |
 | 042 | Selá | Arte aprovada e download confirmado. Composição em canal de irrigação e área agrícola; personagem de porte forte, rosto largo, mandíbula marcada, cabelo curto encaracolado e barba aparada; trabalhadores e povoado ao fundo. Aparência artística, sem descrição bíblica. | Aprovada e baixada |
+| 043 | Éber | Arte aprovada e download confirmado. Porte alto e muito magro; rosto comprido; cabelos longos grisalhos e barba branca volumosa. Cena de escrita em tabuleta, em ambiente antigo de transmissão de registros familiares. Aparência artística, sem descrição bíblica. | Aprovada e baixada |
 
 ## Próximo passo
 
@@ -44,7 +45,8 @@
 - **040 — Girgashitas:** arte aprovada e download confirmado.
 - **041 — Arpaxade:** arte aprovada e download confirmado.
 - **042 — Selá:** arte aprovada e download confirmado.
-- **043 — Éber:** filho de Selá e antepassado na linhagem de Abraão. Pesquisar Gênesis 10:24–25; 11:14–17 e 1 Crônicas 1:18–19, 25.
+- **043 — Éber:** arte aprovada e download confirmado.
+- **044 — Pelegue:** filho de Éber; por sua linhagem segue a descendência que chega a Abraão. Pesquisar Gênesis 10:25; 11:16–19 e 1 Crônicas 1:19, 25.
 
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.

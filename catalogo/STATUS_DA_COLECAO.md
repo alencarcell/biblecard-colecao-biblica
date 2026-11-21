@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 062 — Ram  
-**Próxima prevista:** 063 — Aminadabe
+**Última carta aprovada:** 063 — Aminadabe  
+**Próxima prevista:** 064 — Naassom
 
 ## Legenda de status
 - Planejamento
@@ -112,7 +112,8 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 - **060 — Peres:** arte aprovada e download confirmado.
 - **061 — Hezrom:** versão revisada aprovada e download confirmado.
 - **062 — Ram:** arte aprovada e download confirmado.
-- **063 — Aminadabe:** filho de Ram e pai de Naassom, elo da genealogia messiânica. Pesquisar Rute 4:19–20; 1 Crônicas 2:10; Mateus 1:4; Lucas 3:33. Verificar se há esposa identificada nas fontes bíblicas; só propor carta para ela se houver relevância documentada.
+- **063 — Aminadabe:** arte aprovada e download confirmado. A Bíblia não informa o nome de sua esposa.
+- **064 — Naassom:** filho de Aminadabe e pai de Salmon, chefe da tribo de Judá durante a jornada no deserto. Pesquisar Números 1:7; 2:3; 7:12; 10:14; Rute 4:20–21; 1 Crônicas 2:10–11; Mateus 1:4–5; Lucas 3:32. Verificar também se há esposa identificada e relevante.
 
 | 059 | Tamar | Arte frente e verso aprovada e download confirmado. Retrato inspirado na referência do usuário: véu vermelho-terracota bordado em dourado, vestimenta azul e creme; cenário ilustrado de povoado antigo, tendas e arquitetura de Canaã. Verso destaca Gênesis 38, o reconhecimento de Judá e a maternidade de Peres e Zerá, com Peres identificado como elo da linhagem messiânica (Rute 4:12, 18; Mateus 1:3). | Aprovada e baixada |
 
@@ -121,3 +122,5 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 | 061 | Hezrom | Versão revisada aprovada e download confirmado. Retrato inspirado na fotografia de referência do usuário: cabelo escuro ondulado com fios grisalhos, barba mais completa e volumosa também grisalha; roupa antiga em tons creme e azul; povoado de Canaã ao fundo. Verso destaca filho de Peres, pai de Ram e elo da genealogia messiânica (Gênesis 46:12; Rute 4:18–19; Mateus 1:3–4). | Aprovada e baixada |
 
 | 062 | Ram | Arte frente e verso aprovada e download confirmado. Aparência inspirada na referência masculina enviada: cabelo escuro curto, bigode mais volumoso, barba cheia com fios grisalhos; túnica e manto de época, cenário de povoado antigo. Verso identifica Ram como filho de Hezrom e pai de Aminadabe, elo da genealogia messiânica (Rute 4:19–20; 1 Crônicas 2:9–10; Mateus 1:3–4). | Aprovada e baixada |
+
+| 063 | Aminadabe | Arte aprovada e download confirmado. Retrato inspirado na referência masculina enviada: cabelo escuro, barba e bigode cheios; vestimenta antiga e povoado de Canaã. Verso identifica-o como filho de Ram e pai de Naassom, elo da genealogia messiânica (Rute 4:19–20; 1 Crônicas 2:10; Mateus 1:4; Lucas 3:33). A Bíblia não informa o nome de sua esposa. | Aprovada e baixada |

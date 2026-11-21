@@ -40,6 +40,11 @@
 - **039 — Amoritas:** versão revisada aprovada; download ainda não confirmado.
 - **040 — Girgashitas:** próximo nome na sequência de Gênesis 10:16. Pesquisar antes de definir aparência e produzir a carta.
 
+## Controle de linhagens genealógicas
+- Manter separadas as ramificações de Cam/Canaã e de Sem. A sequência atual de Gênesis 10:15–18 (Sídon, Hete, Jebuseus, Amoritas, Girgashitas e demais povos cananeus) pertence à descendência de Canaã.
+- A linhagem que chega a Abraão segue por Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão (Gênesis 10:21–31; 11:10–26).
+- Não tratar a ordem dos nomes em Gênesis 10 como se todos pertencessem à mesma linha direta. Manter um mapa genealógico paralelo e conferir cada personagem antes de numerar ou atribuir selo de linhagem.
+
 ## Observações
 - Não marcar cartas como concluídas sem aprovação do usuário e validação do arquivo final.
 - Não inventar detalhes individuais para nomes que podem representar povos ou tribos.

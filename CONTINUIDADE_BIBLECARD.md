@@ -124,10 +124,10 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 | 031 | Leabim | Arte revisada com rosto mais largo, nariz mais largo/achatado e olhar para o lado oposto; revisão vigente, aprovação final não confirmada |
 | 032 | Naftuim | Arte frente e verso gerada; aprovação final não confirmada |
 | 033 | Patrusim | Arte frente e verso gerada; aprovação final não confirmada |
-| 034 | Casluim | Arte frente e verso gerada em 21/11/2026; usuário relatou dificuldade para baixar; arquivo precisa ser validado/entregue e a carta aguarda aprovação |
+| 034 | Casluim | Arte frente e verso gerada; usuário relatou dificuldade para baixar; arquivo precisa ser validado/entregue e a carta aguarda aprovação |
 
 ### Próximo personagem
-**035 — Caftorim.** Antes de produzir, apresentar contexto baseado em Gênesis 10:13, 14, 1 Crônicas 1:11, 12 e publicações pertinentes do jw.org; depois definir aparência com o usuário.
+**036 — Sídon.** Antes de produzir, apresentar contexto baseado em Gênesis 10:13, 14, 1 Crônicas 1:11, 12 e publicações pertinentes do jw.org; depois definir aparência com o usuário.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 

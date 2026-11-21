@@ -2,7 +2,7 @@
 
 **Atualizado:** 21/11/2026  
 **Última carta aprovada:** 071 — Davi  
-**Próxima prevista:** 072 — Salomão
+**Próxima prevista:** 072 — Bate-Seba
 
 ## Legenda de status
 - Planejamento
@@ -150,3 +150,8 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 - **071 — Davi:** frente e verso aprovados e download confirmado pelo usuário. A frente usa a cena escolhida de Davi lançando a pedra com a funda contra Golias; aparência inspirada na referência facial enviada, com pele mais clara, cabelo ruivo-claro e roupas coerentes com o período. O verso destaca sua unção, vitória sobre Golias, reinado, estabelecimento de Jerusalém, salmos e linhagem messiânica (1 Samuel 16–17; 2 Samuel 5–8; Salmo 23; 51; Mateus 1:6).
 - **Próxima carta: 072 — Salomão.** Pesquisar sua posição na linhagem e sua história antes de definir o conteúdo.
 - **Mulher relevante a incluir:** Bate-Seba, mãe de Salomão e mencionada na genealogia de Mateus 1:6 como “a esposa de Urias”. Avaliar carta própria em posição adequada, sem antecipar ou inventar dados.
+
+
+## Atualização de sequência — cartas 072 e 073
+- **072 — Bate-Seba:** definida pelo usuário como próxima carta, antes de Salomão. Pesquisar 2 Samuel 11–12; 1 Reis 1–2; 1 Crônicas 3:5; Mateus 1:6. Destacar com equilíbrio: foi esposa de Urias, depois esposa de Davi e mãe de Salomão; teve papel ativo ao lembrar Davi de seu juramento para que Salomão fosse entronizado; tornou-se rainha-mãe. A nota de estudo de Mateus identifica-a na genealogia messiânica como “esposa de Urias”. A Bíblia também registra seu filho Natã, antepassado de Maria segundo Lucas 3:31; Salomão está na linhagem de José em Mateus 1. Arte ainda não iniciada.
+- **073 — Salomão:** próxima carta após Bate-Seba. Filho de Davi e Bate-Seba, rei de Israel; pesquisar 1 Reis 1–11; 1 Crônicas 22–29; Mateus 1:6.

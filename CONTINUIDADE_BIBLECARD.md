@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 2.0  
+**Versão:** 2.1  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -162,8 +162,12 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 - **045 — Reú:** arte aprovada e download confirmado. Senhor idoso de aparência amigável e agradável, cabelos e barba brancos, vestimenta azul-turquesa; cenário externo com caravana aproximando-se de povoado. Aparência artística, sem descrição física bíblica.
 - **046 — Serugue:** arte aprovada e download confirmado. Rosto fino, nariz aquilino, cabelos escuros ondulados até os ombros e barba curta; cenário de mercado urbano mesopotâmico. Aparência artística, sem descrição física bíblica.
 
+### Estado atualizado — cartas 046 e 047
+- **046 — Serugue:** arte aprovada e download confirmado. Rosto fino, nariz aquilino, cabelos escuros ondulados até os ombros e barba curta; cenário de mercado urbano mesopotâmico. Aparência artística, sem descrição física bíblica.
+- **047 — Naor (filho de Serugue):** arte aprovada e download confirmado. Homem de meia-idade, rosto quadrado, cabelos ondulados parcialmente grisalhos presos atrás, barba curta; rosto e olhar voltados para a esquerda; cenário de povoado mesopotâmico com rebanhos. Aparência artística, sem descrição física bíblica.
+
 ### Próximo personagem
-**047 — Naor (filho de Serugue, pai de Tera).** Referências-base: Gênesis 11:22–26; 1 Crônicas 1:26–27; Lucas 3:34–36. Distinguir cuidadosamente do Naor mais jovem, filho de Tera e irmão de Abraão.
+**048 — Tera.** Filho de Naor e pai de Abrão, Naor e Harã. Referências-base: Gênesis 11:24–32; Josué 24:2–3; 1 Crônicas 1:26–27. Distinguir os dois filhos chamados Naor.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -179,7 +183,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú e 046 — Serugue foram aprovadas e baixadas. O próximo é 047 — Naor, filho de Serugue e pai de Tera. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue e 047 — Naor (filho de Serugue) foram aprovadas e baixadas. O próximo é 048 — Tera. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 1.7  
+**Versão:** 1.8  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -152,9 +152,10 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 - **041 — Arpaxade:** arte aprovada e download confirmado. Representação artística de patriarca alto e magro, em cenário pós-Dilúvio com família, animais, rio, reconstrução de moradias e arco-íris; contexto simbólico, não evento pessoal descrito no relato.
 - **042 — Selá:** arte aprovada e download confirmado. Composição em canal de irrigação e área agrícola; personagem de porte forte, rosto largo, mandíbula marcada, cabelo curto encaracolado e barba aparada; trabalhadores e povoado ao fundo. Aparência artística, sem descrição bíblica.
 - **043 — Éber:** arte aprovada e download confirmado. Porte alto e muito magro; rosto comprido; cabelos longos grisalhos e barba branca volumosa. Cena de escrita em tabuleta, em ambiente antigo de transmissão de registros familiares. Aparência artística, sem descrição bíblica.
+- **044 — Pelegue:** versão revisada aprovada e download confirmado. Posição espelhada: rosto voltado à esquerda, cabeça levemente baixa e olhar de canto para cima; sem bandana, entradas acentuadas/calvície parcial, cicatriz discreta na bochecha, bochechas aprofundadas e pele um pouco mais clara. Cenário de Babel e dispersão.
 
 ### Próximo personagem
-**044 — Pelegue.** Filho de Éber; por sua linhagem segue a descendência que chega a Abraão. Referências-base: Gênesis 10:25; 11:16–19; 1 Crônicas 1:19, 25. Pesquisar antes de definir conteúdo e aparência.
+**045 — Reú.** Filho de Pelegue e pai de Serugue. Referências-base: Gênesis 11:18–21; 1 Crônicas 1:25–27; Lucas 3:35. Pesquisar antes de definir conteúdo e aparência.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -170,7 +171,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá e 043 — Éber foram aprovadas e baixadas. O próximo é 044 — Pelegue. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber e 044 — Pelegue foram aprovadas e baixadas. O próximo é 045 — Reú. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

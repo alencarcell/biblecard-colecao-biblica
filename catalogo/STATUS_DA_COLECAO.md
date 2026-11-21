@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta gerada:** 034 — Casluim  
-**Próxima prevista:** 035 — Caftorim
+**Última carta aprovada e baixada:** 035 — Caftorim  
+**Próxima prevista:** 036 — Sídon
 
 ## Legenda de status
 - Planejamento
@@ -25,13 +25,14 @@
 | 031 | Leabim | Alto e esguio, cabelos longos crespos parcialmente presos, barba rala e bigode; versão revisada com rosto mais largo, nariz mais largo/achatado e olhar para o lado oposto. | Revisão gerada; aprovação não confirmada |
 | 032 | Naftuim | Baixo, compacto e robusto; rosto arredondado, cabelo curto crespo volumoso, barba longa; segurando embarcação junto ao rio. Identificação com Delta do Nilo deve ser tratada como provável, não conclusiva. | Arte gerada; aprovação não confirmada |
 | 033 | Patrusim | Alto e magro, rosto comprido, nariz fino, queixo pronunciado, cabelo liso escuro até os ombros; sentado em degraus olhando para frente. Associação ao Alto Egito apresentada como provável. | Arte gerada; aprovação não confirmada |
-| 034 | Casluim | Alto, musculoso, rosto quadrado, mandíbula larga, nariz forte, cabelo ondulado curto escuro, barba cheia; caminhando em povoado antigo com construções de pedra e palmeiras. Pode designar homem ou povo; localização desconhecida. | Arte gerada; download pendente de validação e aprovação |
+| 034 | Casluim | Alto, musculoso, rosto quadrado, mandíbula larga, nariz forte, cabelo ondulado curto escuro, barba cheia; caminhando em povoado antigo com construções de pedra e palmeiras. Pode designar homem ou povo; localização desconhecida. | Arte gerada; aprovação/download não confirmados neste registro |
+| 035 | Caftorim | Frente e verso aprovados pelo usuário, que confirmou o download. Porte mediano, ágil e definido; rosto fino; cabelo longo ondulado parcialmente preso; bigode fino sem barba; porto antigo com embarcações. | Aprovada e baixada |
 
 ## Próximo passo
 
-### 035 — Caftorim
-1. Pesquisar Gênesis 10:13, 14 e 1 Crônicas 1:11, 12 na Tradução do Novo Mundo.
-2. Consultar o verbete correspondente no Estudo Perspicaz das Escrituras e outras publicações pertinentes no jw.org.
+### 036 — Sídon
+1. Pesquisar Gênesis 10:15 e 1 Crônicas 1:13 na Tradução do Novo Mundo.
+2. Consultar o verbete “Sídon, sidônios” no Estudo Perspicaz das Escrituras e outras publicações pertinentes no jw.org.
 3. Apresentar o contexto ao usuário.
 4. Definir aparência antes de gerar a carta.
 5. Produzir frente e verso e aguardar aprovação.

@@ -124,10 +124,11 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 | 031 | Leabim | Arte revisada com rosto mais largo, nariz mais largo/achatado e olhar para o lado oposto; revisão vigente, aprovação final não confirmada |
 | 032 | Naftuim | Arte frente e verso gerada; aprovação final não confirmada |
 | 033 | Patrusim | Arte frente e verso gerada; aprovação final não confirmada |
-| 034 | Casluim | Arte frente e verso gerada; usuário relatou dificuldade para baixar; arquivo precisa ser validado/entregue e a carta aguarda aprovação |
+| 034 | Casluim | Arte frente e verso gerada; download e aprovação ainda não confirmados neste registro |
+| 035 | Caftorim | Frente e verso aprovados pelo usuário; download confirmado. Aparência: porte mediano, ágil e definido; rosto fino; cabelo longo ondulado parcialmente preso; bigode fino sem barba; porto antigo com embarcações. | Aprovada e baixada |
 
 ### Próximo personagem
-**036 — Sídon.** Antes de produzir, apresentar contexto baseado em Gênesis 10:13, 14, 1 Crônicas 1:11, 12 e publicações pertinentes do jw.org; depois definir aparência com o usuário.
+**036 — Sídon.** Antes de produzir, apresentar contexto baseado em Gênesis 10:15, 1 Crônicas 1:13 e publicações pertinentes do jw.org; depois definir aparência com o usuário.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -143,7 +144,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. A última carta registrada é a 034 — Casluim, que ainda precisa ter o download validado e ser aprovada. O próximo personagem é 035 — Caftorim. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. A carta 035 — Caftorim foi aprovada e baixada. O próximo personagem previsto é 036 — Sídon. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

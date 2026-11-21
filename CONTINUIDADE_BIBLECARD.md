@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 1.5  
+**Versão:** 1.6  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -150,9 +150,10 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 - **039 — Amoritas:** versão revisada aprovada pelo usuário. Biotipo magro e alongado; rosto estreito e envelhecido; barba parcialmente grisalha e cabelos escuros com fios grisalhos. Vestimenta em tons terrosos com padrões geométricos; personagem sentado com cajado, acampamento e rebanhos ao fundo. Download não confirmado.
 - **040 — Girgashitas:** arte aprovada e download confirmado. Composição em oficina de cerâmica: homem de porte esguio, rosto triangular, queixo fino, cabelo crespo curto parcialmente preso e bigode discreto sem barba cheia; trabalhando em peça de cerâmica, forno e oficina ao fundo.
 - **041 — Arpaxade:** arte aprovada e download confirmado. Representação artística de patriarca alto e magro, em cenário pós-Dilúvio com família, animais, rio, reconstrução de moradias e arco-íris; contexto simbólico, não evento pessoal descrito no relato.
+- **042 — Selá:** arte aprovada e download confirmado. Composição em canal de irrigação e área agrícola; personagem de porte forte, rosto largo, mandíbula marcada, cabelo curto encaracolado e barba aparada; trabalhadores e povoado ao fundo. Aparência artística, sem descrição bíblica.
 
 ### Próximo personagem
-**042 — Selá.** Filho de Arpaxade e pai de Éber, na linhagem de Sem que conduz a Abraão. Referências-base: Gênesis 10:24; 11:12–15; 1 Crônicas 1:18, 24. Pesquisar antes de definir conteúdo e aparência.
+**043 — Éber.** Filho de Selá e antepassado na linhagem de Abraão. Referências-base: Gênesis 10:24–25; 11:14–17; 1 Crônicas 1:18–19, 25. Pesquisar antes de definir conteúdo e aparência.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -168,7 +169,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; o próximo é 042 — Selá. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade e 042 — Selá foram aprovadas e baixadas. O próximo é 043 — Éber. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Atualizado:** 21/11/2026  
 **Última carta aprovada:** 053 — Isaque  
-**Próxima prevista:** 054 — Esaú
+**Próxima prevista:** 054 — Rebeca
 
 ## Legenda de status
 - Planejamento
@@ -61,7 +61,7 @@
 - **051 — Ló:** arte aprovada e download confirmado.
 - **052 — Ismael:** arte aprovada e download confirmado.
 - **053 — Isaque:** arte aprovada e download confirmado.
-- **054 — Esaú:** filho mais velho de Isaque e Rebeca, irmão gêmeo de Jacó. Pesquisar Gênesis 25:19–34; 26:34–35; 27:1–46; 32:3–21; 33:1–16; 36:1–8. Distinguir sua identidade pessoal do povo edomita que descendeu dele.
+- **054 — Rebeca:** esposa de Isaque e mãe de Esaú e Jacó. Pesquisar Gênesis 22:20–23; 24:1–67; 25:19–28; 27:1–46; 49:31. Próxima carta; Esaú será retomado depois.
 
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.

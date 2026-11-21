@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 3.4  
+**Versão:** 3.5  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -210,8 +210,11 @@ Em cada carta de personagem que integre a genealogia do Messias, indicar explici
 ### Critério de sequência da linhagem messiânica — homens e mulheres
 Seguir a linha genealógica masculina documentada nas Escrituras, mas incluir também as mulheres que a Bíblia destaca diretamente na história dessa linhagem, posicionando cada uma no ponto cronológico/genealógico correto. Quando a Bíblia identifica o cônjuge, incluir o casal em cartas consecutivas ou no mesmo núcleo de sequência, sem inventar relações. Exemplos: Judá e Tamar (Gênesis 38; Mateus 1:3); Salmon e Raabe (Mateus 1:5); Boaz e Rute (Rute 4:13–22; Mateus 1:5); Jessé e Davi, com a linhagem prosseguindo até Jesus. Confirmar cada elo nas genealogias de Mateus 1:1–16, Lucas 3:23–34, 1 Crônicas 2 e Rute 4:18–22. Não omitir mulheres relevantes nem acrescentar cônjuges sem base bíblica.
 
+### Estado atualizado — carta 058
+- **058 — Judá:** arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: cabelos escuros, barba cheia, turbante claro e expressão firme; cenário rural com tendas e rebanhos. O verso destaca sua posição como filho de Jacó e Lia, os acontecimentos envolvendo Tamar, o reconhecimento de sua responsabilidade e a continuidade da linhagem por Peres até Jesus (Gênesis 38; 49:8–10; Mateus 1:2–3).
+
 ### Próximo personagem
-**058 — Judá.** Filho de Jacó e Lia; elo central da linhagem messiânica. Referências-base: Gênesis 29:35; 37:26–27; 38:1–30; 49:8–10; Mateus 1:2–3; Lucas 3:33. A sequência inclui os homens da genealogia e também as mulheres destacadas pela Bíblia no ponto correto: Tamar; Raabe e seu esposo Salmon; Rute e Boaz; e outras mulheres relevantes quando documentadas. Depois de chegar a Jesus, retomar outras ramificações e personagens em novas cartas.
+**059 — Tamar.** Nora de Judá e mãe de Peres e Zerá; personagem feminina explicitamente incluída na genealogia messiânica. Referências-base: Gênesis 38:6–30; Rute 4:12, 18; Mateus 1:3. Tratar com cuidado o contexto de Gênesis 38, sem reduzir Tamar ao episódio. Após Tamar, seguir Peres e as gerações documentadas até Salmon e Raabe, Boaz e Rute, Obede, Jessé, Davi e os descendentes até Jesus. A sequência inclui homens da genealogia e mulheres destacadas pela Bíblia no ponto correto.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -227,7 +230,7 @@ Seguir a linha genealógica masculina documentada nas Escrituras, mas incluir ta
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A próxima é 058 — Judá, filho de Jacó e Lia, seguindo a linhagem messiânica. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A carta 058 — Judá foi aprovada e baixada. A próxima é 059 — Tamar, mãe de Peres e personagem feminina destacada na genealogia messiânica. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

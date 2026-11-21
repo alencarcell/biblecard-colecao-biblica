@@ -298,3 +298,11 @@ Pesquisar em cada geração se a esposa é identificada nas Escrituras e se poss
 - **073 — Salomão:** arte frente e verso gerada. Houve revisão visual para aproximar os traços da referência mais recente, com cabelo cacheado e barba mais longa e volumosa. Aguardar aprovação e download antes de marcar como concluída.
 - A próxima ação é aguardar a avaliação da carta 073. Preservar a numeração e proporção padronizada dos cards.
 - Manter a regra: verificar a relevância bíblica das esposas e demais mulheres ligadas à linhagem messiânica; quando houver relevância narrativa, histórica ou genealógica, lembrar o usuário e propor carta própria. Não inventar relações.
+
+
+## Atualização de continuidade — cartas 072 a 074 (21/11/2026)
+- **072 — Bate-Seba:** frente e verso aprovados e download confirmado pelo usuário.
+- **073 — Salomão:** frente e verso aprovados e download confirmado pelo usuário. Retrato final inspirado nas referências faciais fornecidas, adaptado à época bíblica, com barba longa e volumosa.
+- **074 — Naamá:** frente e verso aprovados e download confirmado pelo usuário. Retrato final inspirado na referência facial mais recente, com vestes nobres em vinho, creme e dourado e cenário de palácio. Esposa de Salomão, mãe de Roboão e de origem amonita. Referências: 1 Reis 14:21, 31; 2 Crônicas 12:13; Mateus 1:7.
+- **Próxima carta: 075 — Roboão**, filho de Salomão e Naamá. Pesquisar 1 Reis 11:43; 12; 14:21, 31; 2 Crônicas 9:31; 10–12; Mateus 1:7. Antes de avançar, verificar se há alguma mulher da geração com relevância narrativa, genealógica ou histórica e lembrar o usuário.
+- Manter a proporção padronizada dos cards, produzir frente e verso juntos para um personagem por vez, e só marcar como concluído após aprovação e confirmação de download.

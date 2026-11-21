@@ -79,6 +79,14 @@ O conteúdo deve ser **detalhado, mas fácil de entender**. Evitar excesso de te
 - O selo deverá ser dourado, acompanhado de explicação genealógica no verso e referências bíblicas que sustentem a ligação.
 - Não antecipar o selo antes de chegar a essa parte da sequência.
 
+## 5.1 Inclusão de personagens femininas
+
+- Personagens femininas devem entrar na coleção desde os primeiros relatos bíblicos, respeitando a ordem cronológica e genealógica.
+- Não esperar o período de Abraão para começar a incluir mulheres.
+- Eva, Ada, Zilá, Naamá e outras mulheres mencionadas antes de Abraão podem ter cartas próprias quando houver conteúdo bíblico suficiente e relevância para a coleção.
+- Manter a mesma numeração sequencial, padrão visual, rigor bíblico e fluxo de aprovação para personagens de ambos os sexos.
+- Não inventar biografias ou características para preencher lacunas; indicar quando o relato bíblico é limitado.
+
 ## 6. Fluxo de produção e status
 
 Não considerar uma carta concluída apenas porque a imagem foi gerada. Usar os seguintes status:

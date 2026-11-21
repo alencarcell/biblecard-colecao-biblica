@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 3.3  
+**Versão:** 3.4  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -206,8 +206,12 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 ### Regra obrigatória — linhagem messiânica
 Em cada carta de personagem que integre a genealogia do Messias, indicar explicitamente a contribuição para a linhagem, sem forçar essa conexão em personagens sem descendência genealógica relevante. A linha principal deve ser acompanhada desde Abraão → Isaque → Jacó (Israel) → Judá → Peres → ... → Davi → Jesus Cristo. Usar referências bíblicas adequadas: Mateus 1:1–16; Lucas 3:23–34; Gênesis 49:8–10; Rute 4:18–22. Distinguir a linhagem messiânica da linhagem tribal mais ampla.
 
+
+### Critério de sequência da linhagem messiânica — homens e mulheres
+Seguir a linha genealógica masculina documentada nas Escrituras, mas incluir também as mulheres que a Bíblia destaca diretamente na história dessa linhagem, posicionando cada uma no ponto cronológico/genealógico correto. Quando a Bíblia identifica o cônjuge, incluir o casal em cartas consecutivas ou no mesmo núcleo de sequência, sem inventar relações. Exemplos: Judá e Tamar (Gênesis 38; Mateus 1:3); Salmon e Raabe (Mateus 1:5); Boaz e Rute (Rute 4:13–22; Mateus 1:5); Jessé e Davi, com a linhagem prosseguindo até Jesus. Confirmar cada elo nas genealogias de Mateus 1:1–16, Lucas 3:23–34, 1 Crônicas 2 e Rute 4:18–22. Não omitir mulheres relevantes nem acrescentar cônjuges sem base bíblica.
+
 ### Próximo personagem
-**058 — Judá.** Filho de Jacó e Lia; elo central da linhagem messiânica. Referências-base: Gênesis 29:35; 37:26–27; 38:1–30; 49:8–10; Rute 4:18–22; Mateus 1:2–3; Lucas 3:33. A partir daqui, priorizar exclusivamente personagens da linha genealógica que conduz a Jesus, conforme pedido do usuário. Depois de chegar a Jesus, retomar outras ramificações e personagens em novas cartas.
+**058 — Judá.** Filho de Jacó e Lia; elo central da linhagem messiânica. Referências-base: Gênesis 29:35; 37:26–27; 38:1–30; 49:8–10; Mateus 1:2–3; Lucas 3:33. A sequência inclui os homens da genealogia e também as mulheres destacadas pela Bíblia no ponto correto: Tamar; Raabe e seu esposo Salmon; Rute e Boaz; e outras mulheres relevantes quando documentadas. Depois de chegar a Jesus, retomar outras ramificações e personagens em novas cartas.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 

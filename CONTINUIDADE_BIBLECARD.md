@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 4.2  
+**Versão:** 4.3  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -251,7 +251,7 @@ Em cada geração da linhagem messiânica, pesquisar também se a esposa é iden
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A carta 058 — Judá foi aprovada e baixada. A carta 059 — Tamar foi aprovada e o download confirmado. A carta 060 — Peres foi aprovada e baixada. A carta 061 — Hezrom foi aprovada e baixada. A carta 062 — Ram foi aprovada e baixada. A carta 063 — Aminadabe foi aprovada e baixada. A carta 064 — Naassom foi aprovada e baixada. A carta 065 — Salmon foi aprovada e baixada. A próxima é 066 — Raabe, esposa de Salmon. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A carta 058 — Judá foi aprovada e baixada. A carta 059 — Tamar foi aprovada e o download confirmado. A carta 060 — Peres foi aprovada e baixada. A carta 061 — Hezrom foi aprovada e baixada. A carta 062 — Ram foi aprovada e baixada. A carta 063 — Aminadabe foi aprovada e baixada. A carta 064 — Naassom foi aprovada e baixada. A carta 065 — Salmon foi aprovada e baixada. A carta 066 — Raabe foi aprovada e baixada. A próxima é 067 — Boaz, filho de Salmon e Raabe; sua esposa Rute também terá carta própria. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 
@@ -264,3 +264,7 @@ A esposa de Salmon, Raabe, é uma personagem de destaque bíblico e genealógico
 
 ### Regra de verificação das esposas
 Pesquisar em cada geração se a esposa é identificada nas Escrituras e se possui relevância narrativa, genealógica ou histórica. Quando houver, lembrar o usuário e propor carta própria. Não inventar nomes ou relações.
+
+
+### Estado atualizado — carta 066
+- **066 — Raabe:** arte frente e verso aprovada e download confirmado. Esposa de Salmon e mãe de Boaz; personagem de destaque em Josué 2; 6:22–25; Mateus 1:5; Hebreus 11:31; Tiago 2:25.

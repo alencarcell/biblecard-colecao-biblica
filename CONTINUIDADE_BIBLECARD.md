@@ -314,3 +314,8 @@ Pesquisar em cada geração se a esposa é identificada nas Escrituras e se poss
 - **Maacá** deve ser lembrada como personagem feminina relevante para carta própria após Roboão: esposa favorita de Roboão, mãe de Abias e rainha-mãe; foi removida dessa posição por Asa por ter feito um ídolo para o poste sagrado (2 Crônicas 11:20–22; 15:16; 1 Reis 15:9–13). Proposta de numeração: **076 — Maacá**.
 - **077 — Abias (Abijão):** próximo elo masculino da linhagem real depois de Roboão; pesquisar 1 Reis 15:1–8; 2 Crônicas 13; Mateus 1:7.
 - Manter o fluxo: um personagem por vez, frente e verso com a mesma proporção vertical padronizada; não concluir sem aprovação e confirmação de download.
+
+
+## Atualização — revisão definitiva da carta 071 (21/11/2026)
+- **071 — Davi:** revisão visual final da frente e do verso aprovada e download confirmado pelo usuário. A nova referência facial foi aplicada com maior semelhança nos traços, cabelo mais cheio em tom ruivo, pele mais clara e sem barba. Mantidos os trajes régios e a ambientação bíblica; a cena de Davi enfrentando Golias e o conteúdo bíblico do verso permanecem. Esta versão substitui a revisão visual anterior e é a versão aprovada definitiva.
+- A atualização de uma carta anterior não altera a sequência atual: **075 — Roboão** permanece como próxima carta em andamento. Após Roboão, lembrar o usuário de **076 — Maacá**, mulher de relevância histórica e genealógica.

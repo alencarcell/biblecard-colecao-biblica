@@ -42,3 +42,7 @@
 - Não marcar cartas como concluídas sem aprovação do usuário e validação do arquivo final.
 - Não inventar detalhes individuais para nomes que podem representar povos ou tribos.
 - Não refazer as cartas 001–008 sem pedido explícito.
+
+
+## Diretriz editorial adicional — personagens femininas
+As personagens femininas serão incluídas desde os primeiros relatos bíblicos, seguindo a ordem cronológica/genealógica. Não serão adiadas até Abraão. Exemplos anteriores a Abraão incluem Eva, Ada, Zilá e Naamá, sempre respeitando o conteúdo efetivamente registrado nas Escrituras.

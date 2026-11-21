@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 059 — Tamar  
-**Próxima prevista:** 060 — Peres
+**Última carta aprovada:** 060 — Peres  
+**Próxima prevista:** 061 — Hezrom
 
 ## Legenda de status
 - Planejamento
@@ -109,6 +109,9 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 - **057 — Lia:** arte aprovada e download confirmado.
 - **058 — Judá:** arte aprovada e download confirmado.
 - **059 — Tamar:** arte aprovada e download confirmado.
-- **060 — Peres:** filho de Judá e Tamar, elo direto da genealogia messiânica. Pesquisar Gênesis 38:27–30; 46:12; Rute 4:12, 18–22; 1 Crônicas 2:4–15; Mateus 1:3–6; Lucas 3:33. Conferir as gerações intermediárias nas genealogias antes de definir os próximos números.
+- **060 — Peres:** arte aprovada e download confirmado.
+- **061 — Hezrom:** filho de Peres, integrante da genealogia que conduz a Davi e Jesus. Pesquisar Gênesis 46:12; Números 26:21; Rute 4:18–19; 1 Crônicas 2:5–9; Mateus 1:3–4; Lucas 3:33. Conferir os elos e variantes de nomes nas genealogias antes de gerar.
 
 | 059 | Tamar | Arte frente e verso aprovada e download confirmado. Retrato inspirado na referência do usuário: véu vermelho-terracota bordado em dourado, vestimenta azul e creme; cenário ilustrado de povoado antigo, tendas e arquitetura de Canaã. Verso destaca Gênesis 38, o reconhecimento de Judá e a maternidade de Peres e Zerá, com Peres identificado como elo da linhagem messiânica (Rute 4:12, 18; Mateus 1:3). | Aprovada e baixada |
+
+| 060 | Peres | Arte frente e verso aprovada e download confirmado. Retrato inspirado na referência do usuário: cabelos castanhos escuros volumosos e ondulados, bigode e cavanhaque curtos, sem óculos; túnica antiga em tons terrosos, manto e cenário de Canaã com tendas e construções de pedra. Verso registra filho de Judá e Tamar, irmão gêmeo de Zerá e elo genealógico até Davi e Jesus (Gênesis 38:27–30; Rute 4:18–22; Mateus 1:3; Lucas 3:33). | Aprovada e baixada |

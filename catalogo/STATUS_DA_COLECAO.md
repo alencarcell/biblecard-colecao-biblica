@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 057 — Lia  
-**Próxima prevista:** 058 — Judá
+**Última carta aprovada:** 058 — Judá  
+**Próxima prevista:** 059 — Tamar
 
 ## Legenda de status
 - Planejamento
@@ -66,6 +66,9 @@
 - **056 — Jacó (Israel):** versão revisada com proporção padronizada aprovada e download confirmado.
 - **057 — Lia:** filha de Labão, esposa de Jacó e mãe de seis de seus filhos, que se tornaram ancestrais de tribos de Israel. Pesquisar Gênesis 29:16–35; 30:9–21; 31:4–16; 49:29–31. Incluir sua relevância na linhagem e não reduzir sua história apenas à rivalidade com Raquel.
 
+
+| 058 | Judá | Frente e verso aprovados e download confirmado. Aparência baseada na referência do usuário: cabelos escuros, barba cheia, turbante claro e expressão firme; cenário rural com tendas e rebanhos. Verso destaca sua posição como filho de Jacó e Lia, os acontecimentos envolvendo Tamar, o reconhecimento de sua responsabilidade e a continuidade da linhagem por Peres até Jesus (Gênesis 38; 49:8–10; Mateus 1:2–3). | Aprovada e baixada |
+
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.
 - Manter separadas as ramificações de Cam/Canaã e de Sem. A sequência atual de Gênesis 10:15–18 (Sídon, Hete, Jebuseus, Amoritas, Girgashitas e demais povos cananeus) pertence à descendência de Canaã.
@@ -104,4 +107,5 @@ As personagens femininas serão incluídas desde os primeiros relatos bíblicos,
 A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, mantendo os homens da genealogia como espinha dorsal e incluindo as mulheres que a Bíblia destaca no ponto correto da história. Incluir cônjuges quando identificados biblicamente. Sequência inicial prevista: Judá e Tamar → Peres → (gerações intermediárias conforme genealogias) → Salmon e Raabe → Boaz e Rute → Obede → Jessé → Davi → descendentes até Jesus. Confirmar cada elo em Gênesis 38; Rute 4:18–22; 1 Crônicas 2; Mateus 1:1–16 e Lucas 3:23–34. Não omitir mulheres relevantes nem inventar relações. Depois de chegar a Jesus, retomar outras ramificações em etapa posterior.
 
 - **057 — Lia:** arte aprovada e download confirmado.
-- **058 — Judá:** próxima carta; filho de Jacó e Lia, elo central da linhagem messiânica. Referências: Gênesis 29:35; 38; 49:8–10; Mateus 1:2–3; Lucas 3:33.
+- **058 — Judá:** arte aprovada e download confirmado.
+- **059 — Tamar:** mulher destacada na genealogia messiânica, nora de Judá e mãe de Peres e Zerá. Pesquisar Gênesis 38:6–30; Rute 4:12, 18; Mateus 1:3. Tratar com cuidado o contexto de Gênesis 38, sem reduzir Tamar ao episódio.

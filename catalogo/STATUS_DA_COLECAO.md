@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 055 — Esaú  
-**Próxima prevista:** 056 — Jacó
+**Última carta aprovada:** 056 — Jacó (Israel)  
+**Próxima prevista:** 057 — Lia
 
 ## Legenda de status
 - Planejamento
@@ -63,7 +63,8 @@
 - **053 — Isaque:** arte aprovada e download confirmado.
 - **054 — Rebeca:** arte aprovada e download confirmado.
 - **055 — Esaú:** arte aprovada e download confirmado.
-- **056 — Jacó:** filho de Isaque e Rebeca, irmão gêmeo de Esaú; mais tarde recebeu o nome Israel. Pesquisar Gênesis 25:19–34; 27:1–45; 28:10–22; 32:24–32; 35:9–15. Abordar a mudança de nome e sua importância na linhagem das 12 tribos.
+- **056 — Jacó (Israel):** versão revisada com proporção padronizada aprovada e download confirmado.
+- **057 — Lia:** filha de Labão, esposa de Jacó e mãe de seis de seus filhos, que se tornaram ancestrais de tribos de Israel. Pesquisar Gênesis 29:16–35; 30:9–21; 31:4–16; 49:29–31. Incluir sua relevância na linhagem e não reduzir sua história apenas à rivalidade com Raquel.
 
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.
@@ -93,3 +94,5 @@ As personagens femininas serão incluídas desde os primeiros relatos bíblicos,
 | 054 | Rebeca | Arte frente e verso aprovada e download confirmado. Jovem de cabelos escuros, expressão delicada, véu bege e vestido azul com detalhes terrosos; cena no poço oferecendo água ao servo de Abraão, com cântaro, camelos e povoado antigo ao fundo. | Aprovada e baixada |
 
 | 055 | Esaú | Arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: homem forte e musculoso, cabelos ruivos volumosos e encaracolados, barba ruiva cheia, vestimenta rústica de caçador com couro, arco e aljava; montanhas rochosas representando Seir ao fundo. | Aprovada e baixada |
+
+| 056 | Jacó (Israel) | Versão revisada com proporção padronizada aprovada e download confirmado. Frente e verso com dimensões iguais no padrão vertical 4 × 5,5 cm; cena noturna no rio Jaboque, Jacó lutando com o anjo. | Aprovada e baixada |

@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 053 — Isaque  
-**Próxima prevista:** 054 — Rebeca
+**Última carta aprovada:** 054 — Rebeca  
+**Próxima prevista:** 055 — Esaú
 
 ## Legenda de status
 - Planejamento
@@ -61,7 +61,8 @@
 - **051 — Ló:** arte aprovada e download confirmado.
 - **052 — Ismael:** arte aprovada e download confirmado.
 - **053 — Isaque:** arte aprovada e download confirmado.
-- **054 — Rebeca:** esposa de Isaque e mãe de Esaú e Jacó. Pesquisar Gênesis 22:20–23; 24:1–67; 25:19–28; 27:1–46; 49:31. Próxima carta; Esaú será retomado depois.
+- **054 — Rebeca:** arte aprovada e download confirmado.
+- **055 — Esaú:** filho mais velho de Isaque e Rebeca, irmão gêmeo de Jacó. Pesquisar Gênesis 25:19–34; 26:34–35; 27:1–46; 32:3–21; 33:1–16; 36:1–8. Distinguir sua identidade pessoal do povo edomita que descendeu dele.
 
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.
@@ -87,3 +88,5 @@ As personagens femininas serão incluídas desde os primeiros relatos bíblicos,
 | 052 | Ismael | Arte frente e verso aprovada e download confirmado. Homem adulto de porte atlético, cabelos escuros longos e ondulados, barba cheia, vestimenta rústica em tons terrosos e lenço claro; arco e aljava; acampamento desértico com camelos e montanhas ao pôr do sol. | Aprovada e baixada |
 
 | 053 | Isaque | Arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: jovem adulto, cabelos castanhos longos e ondulados, barba curta aparada, expressão amigável e sorriso discreto; roupa clara com manto marrom, cajado; acampamento patriarcal com rebanhos, palmeiras e montanhas ao pôr do sol. | Aprovada e baixada |
+
+| 054 | Rebeca | Arte frente e verso aprovada e download confirmado. Jovem de cabelos escuros, expressão delicada, véu bege e vestido azul com detalhes terrosos; cena no poço oferecendo água ao servo de Abraão, com cântaro, camelos e povoado antigo ao fundo. | Aprovada e baixada |

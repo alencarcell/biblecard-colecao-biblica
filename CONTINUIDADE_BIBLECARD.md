@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 2.8  
+**Versão:** 2.9  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -190,8 +190,12 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 - **052 — Ismael:** arte frente e verso aprovada e download confirmado. Homem adulto de porte atlético, cabelos escuros longos e ondulados, barba cheia, vestimenta rústica em tons terrosos e lenço claro; arco e aljava; acampamento desértico com camelos e montanhas ao pôr do sol.
 - **053 — Isaque:** arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: jovem adulto, cabelos castanhos longos e ondulados, barba curta aparada, expressão amigável e sorriso discreto; roupa clara com manto marrom, cajado; acampamento patriarcal com rebanhos, palmeiras e montanhas ao pôr do sol.
 
+### Estado atualizado — cartas 053 e 054
+- **053 — Isaque:** arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: jovem adulto, cabelos castanhos longos e ondulados, barba curta aparada, expressão amigável e sorriso discreto; roupa clara com manto marrom, cajado; acampamento patriarcal com rebanhos, palmeiras e montanhas ao pôr do sol.
+- **054 — Rebeca:** arte frente e verso aprovada e download confirmado. Jovem de cabelos escuros, expressão delicada, véu bege e vestido azul com detalhes terrosos; cena no poço oferecendo água ao servo de Abraão, com cântaro, camelos e povoado antigo ao fundo.
+
 ### Próximo personagem
-**054 — Rebeca.** Esposa de Isaque e mãe de Esaú e Jacó. Referências-base: Gênesis 22:20–23; 24:1–67; 25:19–28; 27:1–46; 49:31. A pedido do usuário, Rebeca vem antes de Esaú para dar sequência à família de Isaque e manter a inclusão cronológica das mulheres. Esaú será retomado depois.
+**055 — Esaú.** Filho mais velho de Isaque e Rebeca, irmão gêmeo de Jacó. Referências-base: Gênesis 25:19–34; 26:34–35; 27:1–46; 32:3–21; 33:1–16; 36:1–8. Distinguir sua identidade pessoal do povo edomita que descendeu dele.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -207,7 +211,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A próxima é 054 — Rebeca; Esaú será retomado depois. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A próxima é 055 — Esaú, filho mais velho de Isaque e Rebeca; Jacó é seu irmão gêmeo. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

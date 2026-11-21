@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada e baixada:** 035 — Caftorim  
-**Próxima prevista:** 036 — Sídon
+**Última carta aprovada:** 036 — Sídon  
+**Próxima prevista:** 037 — Hete (Heth)
 
 ## Legenda de status
 - Planejamento
@@ -27,10 +27,11 @@
 | 033 | Patrusim | Alto e magro, rosto comprido, nariz fino, queixo pronunciado, cabelo liso escuro até os ombros; sentado em degraus olhando para frente. Associação ao Alto Egito apresentada como provável. | Arte gerada; aprovação não confirmada |
 | 034 | Casluim | Alto, musculoso, rosto quadrado, mandíbula larga, nariz forte, cabelo ondulado curto escuro, barba cheia; caminhando em povoado antigo com construções de pedra e palmeiras. Pode designar homem ou povo; localização desconhecida. | Arte gerada; aprovação/download não confirmados neste registro |
 | 035 | Caftorim | Frente e verso aprovados pelo usuário, que confirmou o download. Porte mediano, ágil e definido; rosto fino; cabelo longo ondulado parcialmente preso; bigode fino sem barba; porto antigo com embarcações. | Aprovada e baixada |
+| 036 | Sídon | Frente e verso aprovados pelo usuário. Alto, ombros largos e robusto; rosto oval envelhecido; cabelo curto ondulado grisalho; barba longa e volumosa grisalha; muralhas da cidade com vista para o mar. | Aprovada; download não confirmado |
 
 ## Próximo passo
 
-### 036 — Sídon
+### 037 — Hete (Heth)
 1. Pesquisar Gênesis 10:15 e 1 Crônicas 1:13 na Tradução do Novo Mundo.
 2. Consultar o verbete “Sídon, sidônios” no Estudo Perspicaz das Escrituras e outras publicações pertinentes no jw.org.
 3. Apresentar o contexto ao usuário.

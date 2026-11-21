@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 1.2  
+**Versão:** 1.3  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -79,7 +79,15 @@ O conteúdo deve ser **detalhado, mas fácil de entender**. Evitar excesso de te
 - O selo deverá ser dourado, acompanhado de explicação genealógica no verso e referências bíblicas que sustentem a ligação.
 - Não antecipar o selo antes de chegar a essa parte da sequência.
 
-## 5.1 Inclusão de personagens femininas
+## 5.1 Controle de ramificações genealógicas
+
+- Manter um mapa de linhagens paralelas a partir dos filhos de Noé; não confundir descendência de Cam/Canaã com a descendência de Sem.
+- A sequência atual dos povos cananeus (Gênesis 10:15–18), incluindo Sídon, Hete, Jebuseus, Amoritas e Girgashitas, pertence à linhagem de **Cam → Canaã**. Esses povos não fazem parte da linha direta que leva a Abraão.
+- A linha genealógica que leva a Abraão é: **Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão**, conforme Gênesis 10:21–31 e 11:10–26.
+- A ordem de apresentação de povos em Gênesis 10 não deve ser confundida com uma única linha de descendência direta. Cada personagem ou povo deve ser associado à ramificação correta antes de receber número ou selo.
+- Manter a sequência de Canaã e a linhagem de Sem rastreadas em paralelo; ao chegar à narrativa de Abraão, retomar a linha de Sem sem atribuir aos povos cananeus a linhagem abraâmica.
+
+## 5.2 Inclusão de personagens femininas
 
 - Personagens femininas devem entrar na coleção desde os primeiros relatos bíblicos, respeitando a ordem cronológica e genealógica.
 - Não esperar o período de Abraão para começar a incluir mulheres.

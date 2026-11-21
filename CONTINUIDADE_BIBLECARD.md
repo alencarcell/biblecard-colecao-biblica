@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 1.3  
+**Versão:** 1.4  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -144,13 +144,14 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 | 035 | Caftorim | Frente e verso aprovados pelo usuário; download confirmado. Aparência: porte mediano, ágil e definido; rosto fino; cabelo longo ondulado parcialmente preso; bigode fino sem barba; porto antigo com embarcações. | Aprovada e baixada |
 | 036 | Sídon | Frente e verso gerados e aprovados pelo usuário. Alto, ombros largos e robusto; rosto oval envelhecido; cabelo curto ondulado grisalho; barba longa e volumosa grisalha; muralhas da cidade com vista para o mar. | Aprovada; download não confirmado |
 
-### Estado atualizado — cartas 037 a 039
+### Estado atualizado — cartas 037 a 040
 - **037 — Hete (Heth):** arte gerada; aguarda aprovação do usuário. Aparência escolhida: baixo e compacto, musculoso; rosto quadrado, nariz largo e queixo forte; cabelo curto crespo escuro e barba curta; entrada de cidade antiga fortificada.
 - **038 — Jebuseus:** segunda versão aprovada pelo usuário. A primeira versão foi rejeitada por semelhança visual e pose repetitiva. A versão aprovada usa composição narrativa em plano aberto: homem de corpo inteiro, inclinado, enchendo uma ânfora em estrutura de água; outras pessoas e cidade fortificada ao fundo. Download não confirmado.
-- **039 — Amoritas:** versão revisada aprovada pelo usuário. Biotipo magro e alongado; rosto estreito e envelhecido; barba parcialmente grisalha e cabelos escuros com fios grisalhos. Vestimenta em tons terrosos com padrões geométricos; personagem sentado com cajado, acampamento e rebanhos ao fundo. A primeira composição foi substituída. Download não confirmado.
+- **039 — Amoritas:** versão revisada aprovada pelo usuário. Biotipo magro e alongado; rosto estreito e envelhecido; barba parcialmente grisalha e cabelos escuros com fios grisalhos. Vestimenta em tons terrosos com padrões geométricos; personagem sentado com cajado, acampamento e rebanhos ao fundo. Download não confirmado.
+- **040 — Girgashitas:** arte aprovada e download confirmado. Composição em oficina de cerâmica: homem de porte esguio, rosto triangular, queixo fino, cabelo crespo curto parcialmente preso e bigode discreto sem barba cheia; trabalhando em peça de cerâmica, forno e oficina ao fundo.
 
 ### Próximo personagem
-**040 — Girgashitas.** Seguir a sequência de Gênesis 10:16, após os amorreus. Pesquisar a TNM e as publicações pertinentes do jw.org antes de definir conteúdo e aparência.
+**041 — Arpaxade.** Iniciar o foco na linhagem de Sem que conduz a Abraão. Referências-base: Gênesis 10:22, 24; 11:10–13; 1 Crônicas 1:17–27. Pesquisar antes de definir conteúdo e aparência.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -166,7 +167,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus e 039 — Amoritas foram aprovadas; o download de Caftorim foi confirmado. A carta 037 — Hete (Heth) ainda aguarda aprovação. O próximo personagem na sequência de Gênesis 10:16 é 040 — Girgashitas. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas e 040 — Girgashitas foram aprovadas; os downloads de Caftorim e Girgashitas foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A partir da 041, o foco será a linhagem de Sem que conduz a Abraão, começando por Arpaxade. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

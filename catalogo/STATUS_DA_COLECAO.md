@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 071 — Davi  
-**Próxima prevista:** 072 — Bate-Seba
+**Última carta aprovada:** 074 — Naamá  
+**Próxima prevista:** 075 — Roboão
 
 ## Legenda de status
 - Planejamento
@@ -162,3 +162,10 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 - **072 — Bate-Seba:** frente e verso aprovados e download confirmado. Manter sua relevância como esposa de Urias, depois esposa de Davi, mãe de Salomão e personagem da linhagem messiânica (2 Samuel 11–12; 1 Reis 1–2; Mateus 1:6).
 - **073 — Salomão:** arte frente e verso gerada; aparência revisada com traços inspirados na referência mais recente, cabelo cacheado e barba mais longa e volumosa. Ainda aguarda aprovação e confirmação de download.
 - **Próxima etapa:** aguardar aprovação da carta 073 antes de avançar. Continuar pesquisando esposas e mulheres de relevância narrativa ou genealógica e lembrar o usuário quando houver personagem feminina pertinente.
+
+
+## Atualização de continuidade — cartas 072 a 074 (21/11/2026)
+- **072 — Bate-Seba:** frente e verso aprovados e download confirmado.
+- **073 — Salomão:** frente e verso aprovados e download confirmado. O retrato foi ajustado com base nas referências faciais fornecidas pelo usuário, mantendo vestimentas e ambientação coerentes com a época; barba longa e volumosa.
+- **074 — Naamá:** frente e verso aprovados e download confirmado. Retrato inspirado na referência facial mais recente, com vestes nobres em vinho, creme e dourado e ambientação de palácio. Verso registra sua origem amonita, seu casamento com Salomão e sua maternidade de Roboão, com referências em 1 Reis 14:21, 31; 2 Crônicas 12:13; Mateus 1:7. Não acrescentar detalhes biográficos ou religiosos que a Bíblia não informa.
+- **Próxima carta: 075 — Roboão**, filho de Salomão e Naamá e sucessor de Salomão no trono. Pesquisar 1 Reis 11:43; 12; 14:21, 31; 2 Crônicas 9:31; 10–12; Mateus 1:7. Verificar também se alguma mulher ligada à geração tem relevância bíblica suficiente para carta própria e lembrar o usuário.

@@ -306,3 +306,11 @@ Pesquisar em cada geração se a esposa é identificada nas Escrituras e se poss
 - **074 — Naamá:** frente e verso aprovados e download confirmado pelo usuário. Retrato final inspirado na referência facial mais recente, com vestes nobres em vinho, creme e dourado e cenário de palácio. Esposa de Salomão, mãe de Roboão e de origem amonita. Referências: 1 Reis 14:21, 31; 2 Crônicas 12:13; Mateus 1:7.
 - **Próxima carta: 075 — Roboão**, filho de Salomão e Naamá. Pesquisar 1 Reis 11:43; 12; 14:21, 31; 2 Crônicas 9:31; 10–12; Mateus 1:7. Antes de avançar, verificar se há alguma mulher da geração com relevância narrativa, genealógica ou histórica e lembrar o usuário.
 - Manter a proporção padronizada dos cards, produzir frente e verso juntos para um personagem por vez, e só marcar como concluído após aprovação e confirmação de download.
+
+
+## Atualização de continuidade — 21/11/2026 (cartas 074 e 075)
+- **074 — Naamá:** frente e verso aprovados e download confirmado. Retrato final baseado na referência mais recente, com vestes nobres e ambientação palaciana; esposa de Salomão e mãe de Roboão (1 Reis 14:21, 31; 2 Crônicas 12:13; Mateus 1:7).
+- **075 — Roboão:** frente e verso gerados; aguarda aprovação e confirmação de download. Usar a fotografia enviada como inspiração facial, adaptada a um retrato bíblico, sem elementos modernos. Cena principal: assembleia de Siquém, em que Roboão recebe a delegação do povo e toma a decisão que desencadeia a divisão do reino. Pesquisa prioritária: verbete “Roboão” no Estudo Perspicaz das Escrituras e história bíblica “A divisão do reino”. Referências: 1 Reis 12:1–24; 14:21–31; 2 Crônicas 10–12; Mateus 1:7.
+- **Maacá** deve ser lembrada como personagem feminina relevante para carta própria após Roboão: esposa favorita de Roboão, mãe de Abias e rainha-mãe; foi removida dessa posição por Asa por ter feito um ídolo para o poste sagrado (2 Crônicas 11:20–22; 15:16; 1 Reis 15:9–13). Proposta de numeração: **076 — Maacá**.
+- **077 — Abias (Abijão):** próximo elo masculino da linhagem real depois de Roboão; pesquisar 1 Reis 15:1–8; 2 Crônicas 13; Mateus 1:7.
+- Manter o fluxo: um personagem por vez, frente e verso com a mesma proporção vertical padronizada; não concluir sem aprovação e confirmação de download.

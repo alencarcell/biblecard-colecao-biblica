@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 3.2  
+**Versão:** 3.3  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -207,7 +207,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 Em cada carta de personagem que integre a genealogia do Messias, indicar explicitamente a contribuição para a linhagem, sem forçar essa conexão em personagens sem descendência genealógica relevante. A linha principal deve ser acompanhada desde Abraão → Isaque → Jacó (Israel) → Judá → Peres → ... → Davi → Jesus Cristo. Usar referências bíblicas adequadas: Mateus 1:1–16; Lucas 3:23–34; Gênesis 49:8–10; Rute 4:18–22. Distinguir a linhagem messiânica da linhagem tribal mais ampla.
 
 ### Próximo personagem
-**057 — Lia.** Filha de Labão, esposa de Jacó e mãe de seis de seus filhos, incluindo Judá, por cuja linhagem veio o Messias. Referências-base: Gênesis 29:16–35; 30:9–21; 35:23; 49:8–10; Mateus 1:2–3. Dar destaque à linhagem messiânica por Judá e não reduzir sua história apenas à rivalidade com Raquel.
+**058 — Judá.** Filho de Jacó e Lia; elo central da linhagem messiânica. Referências-base: Gênesis 29:35; 37:26–27; 38:1–30; 49:8–10; Rute 4:18–22; Mateus 1:2–3; Lucas 3:33. A partir daqui, priorizar exclusivamente personagens da linha genealógica que conduz a Jesus, conforme pedido do usuário. Depois de chegar a Jesus, retomar outras ramificações e personagens em novas cartas.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -223,7 +223,7 @@ Em cada carta de personagem que integre a genealogia do Messias, indicar explici
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A próxima é 057 — Lia, filha de Labão, esposa de Jacó e mãe de seis de seus filhos. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A próxima é 058 — Judá, filho de Jacó e Lia, seguindo a linhagem messiânica. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

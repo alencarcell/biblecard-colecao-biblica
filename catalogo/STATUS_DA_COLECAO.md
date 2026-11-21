@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 038 — Jebuseus  
-**Próxima prevista:** 039 — Amoritas
+**Última carta aprovada:** 039 — Amoritas  
+**Próxima prevista:** 040 — Girgashitas
 
 ## Legenda de status
 - Planejamento
@@ -30,13 +30,15 @@
 | 036 | Sídon | Frente e verso aprovados pelo usuário. Alto, ombros largos e robusto; rosto oval envelhecido; cabelo curto ondulado grisalho; barba longa e volumosa grisalha; muralhas da cidade com vista para o mar. | Aprovada; download não confirmado |
 | 037 | Hete (Heth) | Arte gerada com porte baixo e compacto, musculoso; rosto quadrado, nariz largo e queixo forte; cabelo curto crespo escuro e barba curta; entrada de cidade fortificada. | Aguardando aprovação |
 | 038 | Jebuseus | Segunda versão aprovada pelo usuário. Composição narrativa em plano aberto: homem de corpo inteiro, inclinado, enchendo ânfora em estrutura de água; outras pessoas e cidade fortificada ao fundo. Primeira versão rejeitada por repetição de rosto/pose e substituída. | Aprovada; download não confirmado |
+| 039 | Amoritas | Versão revisada aprovada. Biotipo magro e alongado; rosto estreito e envelhecido; barba parcialmente grisalha e cabelos escuros com fios grisalhos. Vestimenta em tons terrosos com padrões geométricos; personagem sentado com cajado, acampamento e rebanhos ao fundo. A primeira composição foi substituída. | Aprovada; download não confirmado |
 
 ## Próximo passo
 
 ### Próximas etapas
 - **037 — Hete (Heth):** arte gerada; aguarda aprovação do usuário.
 - **038 — Jebuseus:** segunda versão aprovada; aguarda confirmação de download para ser marcada como concluída.
-- **039 — Amoritas:** próximo personagem na sequência genealógica de Canaã, após Jebuseus (Gênesis 10:16). Pesquisar antes de definir aparência e produzir a carta.
+- **039 — Amoritas:** versão revisada aprovada; download ainda não confirmado.
+- **040 — Girgashitas:** próximo nome na sequência de Gênesis 10:16. Pesquisar antes de definir aparência e produzir a carta.
 
 ## Observações
 - Não marcar cartas como concluídas sem aprovação do usuário e validação do arquivo final.

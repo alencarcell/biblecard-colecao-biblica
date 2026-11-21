@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 051 — Ló  
-**Próxima prevista:** 052 — Ismael
+**Última carta aprovada:** 052 — Ismael  
+**Próxima prevista:** 053 — Isaque
 
 ## Legenda de status
 - Planejamento
@@ -59,7 +59,8 @@
 - **049 — Abrão (Abraão):** arte aprovada e download confirmado. Cena de Gênesis 22 com anjo intervindo; aparência inspirada na referência fornecida pelo usuário.
 - **050 — Sarai (Sara):** arte aprovada e download confirmado. Personagem feminina central da narrativa patriarcal.
 - **051 — Ló:** arte aprovada e download confirmado.
-- **052 — Ismael:** filho de Abraão e Agar. Pesquisar Gênesis 16:1–16; 17:18–27; 21:8–21; 25:12–18. Distinguir os relatos bíblicos das tradições posteriores sobre os ismaelitas.
+- **052 — Ismael:** arte aprovada e download confirmado.
+- **053 — Isaque:** filho de Abraão e Sara, herdeiro da promessa. Pesquisar Gênesis 17:15–21; 21:1–7; 22:1–19; 24:1–67; 25:19–26. Manter distinção entre o episódio do sacrifício impedido e qualquer interpretação artística.
 
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.
@@ -81,3 +82,5 @@ As personagens femininas serão incluídas desde os primeiros relatos bíblicos,
 | 050 | Sarai (Sara) | Arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário, na faixa etária solicitada, com feições embelezadas; cabelos claros ondulados, véu vinho com detalhes dourados e vestimenta vermelha/laranja; acampamento patriarcal ao fundo. | Aprovada e baixada |
 
 | 051 | Ló | Arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: homem idoso, cabelos grisalhos longos e ondulados, barba branca volumosa, nariz proeminente, rosto marcado pela idade e perfil lateral voltado à direita; manto terroso; vale com rebanhos, tendas e povoado ao fundo. | Aprovada e baixada |
+
+| 052 | Ismael | Arte frente e verso aprovada e download confirmado. Homem adulto de porte atlético, cabelos escuros longos e ondulados, barba cheia, vestimenta rústica em tons terrosos e lenço claro; arco e aljava; acampamento desértico com camelos e montanhas ao pôr do sol. | Aprovada e baixada |

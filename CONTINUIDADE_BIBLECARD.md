@@ -126,9 +126,10 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 | 033 | Patrusim | Arte frente e verso gerada; aprovação final não confirmada |
 | 034 | Casluim | Arte frente e verso gerada; download e aprovação ainda não confirmados neste registro |
 | 035 | Caftorim | Frente e verso aprovados pelo usuário; download confirmado. Aparência: porte mediano, ágil e definido; rosto fino; cabelo longo ondulado parcialmente preso; bigode fino sem barba; porto antigo com embarcações. | Aprovada e baixada |
+| 036 | Sídon | Frente e verso gerados e aprovados pelo usuário. Alto, ombros largos e robusto; rosto oval envelhecido; cabelo curto ondulado grisalho; barba longa e volumosa grisalha; muralhas da cidade com vista para o mar. | Aprovada; download não confirmado |
 
 ### Próximo personagem
-**036 — Sídon.** Antes de produzir, apresentar contexto baseado em Gênesis 10:15, 1 Crônicas 1:13 e publicações pertinentes do jw.org; depois definir aparência com o usuário.
+**037 — Hete (Heth).** Antes de produzir, apresentar contexto baseado em Gênesis 10:15, 1 Crônicas 1:13 e publicações pertinentes do jw.org; depois definir aparência com o usuário.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -144,7 +145,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. A carta 035 — Caftorim foi aprovada e baixada. O próximo personagem previsto é 036 — Sídon. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim e 036 — Sídon foram aprovadas; o download de Caftorim foi confirmado. O próximo nome na sequência genealógica é 037 — Hete (Heth). Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

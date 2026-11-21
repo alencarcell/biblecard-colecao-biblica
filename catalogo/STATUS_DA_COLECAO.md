@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 066 — Raabe  
-**Próxima prevista:** 067 — Boaz
+**Última carta aprovada:** 070 — Jessé  
+**Próxima prevista:** 071 — Davi
 
 ## Legenda de status
 - Planejamento
@@ -133,3 +133,14 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 | 065 | Salmon | Arte frente e verso aprovada e download confirmado. Retrato inspirado na referência enviada: cabelos escuros, volumosos e ondulados; barba e bigode de volume intermediário, um pouco mais cheios; vestimenta antiga em bege e vinho, cenário de povoado antigo. Verso destaca filho de Naassom, esposo de Raabe e pai de Boaz, na linhagem messiânica (Rute 4:20–21; Mateus 1:5). | Aprovada e baixada |
 
 | 066 | Raabe | Arte frente e verso aprovada e download confirmado. Retrato inspirado na referência enviada: cabelos loiros longos e ondulados, feições delicadas; véu vinho com detalhes dourados e vestimenta de época. Cena junto à janela de Jericó com cordão escarlate e muralhas da cidade. Verso destaca sua fé, proteção dos espias, preservação de sua família e posição como esposa de Salmon e mãe de Boaz na linhagem messiânica (Josué 2; 6:22–25; Mateus 1:5; Hebreus 11:31; Tiago 2:25). | Aprovada e baixada |
+
+
+## Atualização de continuidade — cartas 067 a 070
+- **067 — Boaz:** frente e verso aprovados e download confirmado.
+- **068 — Rute:** frente e verso aprovados e download confirmado.
+- **069 — Obede:** frente e verso aprovados e download confirmado.
+- **070 — Jessé:** frente e verso aprovados e download confirmado. A frente foi revisada para manter coerência histórica: sem óculos e sem aparelho dentário, cabelos um pouco mais longos e traços inspirados na referência enviada. O verso destaca Jessé como pai de Davi e elo da linhagem messiânica (1 Samuel 16:1, 11–13; 1 Crônicas 2:12–15; Rute 4:17, 22; Mateus 1:6). A Bíblia não fornece o nome de sua esposa.
+
+## Próximo passo
+- **071 — Davi:** próxima carta da linhagem messiânica. Pesquisar a genealogia e os relatos relevantes antes de definir o conteúdo e a aparência.
+- Verificar a relevância das mulheres ligadas à geração de Davi; Bate-Seba merece atenção especial por sua ligação com Salomão e com a linhagem apresentada em Mateus 1:6.

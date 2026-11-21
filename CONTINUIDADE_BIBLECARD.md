@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 3.6  
+**Versão:** 3.7  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -216,8 +216,11 @@ Seguir a linha genealógica masculina documentada nas Escrituras, mas incluir ta
 ### Estado atualizado — carta 059
 - **059 — Tamar:** arte frente e verso aprovada e download confirmado. Retrato inspirado na referência do usuário: véu vermelho-terracota bordado em dourado, vestimenta azul e creme; cenário ilustrado de povoado antigo, tendas e arquitetura de Canaã. Verso destaca Gênesis 38, o reconhecimento de Judá e a maternidade de Peres e Zerá, com Peres identificado como elo da linhagem messiânica (Rute 4:12, 18; Mateus 1:3).
 
+### Estado atualizado — carta 060
+- **060 — Peres:** arte frente e verso aprovada e download confirmado. Retrato inspirado na referência do usuário: cabelos castanhos escuros volumosos e ondulados, bigode e cavanhaque curtos, sem óculos; túnica antiga em tons terrosos, manto e cenário de Canaã com tendas e construções de pedra. Verso registra filho de Judá e Tamar, irmão gêmeo de Zerá e elo genealógico até Davi e Jesus (Gênesis 38:27–30; Rute 4:18–22; Mateus 1:3; Lucas 3:33).
+
 ### Próximo personagem
-**060 — Peres.** Filho de Judá e Tamar, elo direto da genealogia messiânica. Referências-base: Gênesis 38:27–30; 46:12; Rute 4:12, 18–22; 1 Crônicas 2:4–15; Mateus 1:3–6; Lucas 3:33. Conferir as gerações intermediárias nas genealogias antes de definir os próximos números.
+**061 — Hezrom.** Filho de Peres, integrante da genealogia que conduz a Davi e Jesus. Referências-base: Gênesis 46:12; Números 26:21; Rute 4:18–19; 1 Crônicas 2:5–9; Mateus 1:3–4; Lucas 3:33. Conferir os elos e variantes de nomes nas genealogias antes de gerar.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -233,7 +236,7 @@ Seguir a linha genealógica masculina documentada nas Escrituras, mas incluir ta
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A carta 058 — Judá foi aprovada e baixada. A carta 059 — Tamar foi aprovada e o download confirmado. A próxima é 060 — Peres, filho de Judá e Tamar. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A carta 057 — Lia foi aprovada e baixada. A carta 058 — Judá foi aprovada e baixada. A carta 059 — Tamar foi aprovada e o download confirmado. A carta 060 — Peres foi aprovada e baixada. A próxima é 061 — Hezrom, filho de Peres. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

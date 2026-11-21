@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 056 — Jacó (Israel)  
-**Próxima prevista:** 057 — Lia
+**Última carta aprovada:** 057 — Lia  
+**Próxima prevista:** 058 — Judá
 
 ## Legenda de status
 - Planejamento
@@ -96,3 +96,5 @@ As personagens femininas serão incluídas desde os primeiros relatos bíblicos,
 | 055 | Esaú | Arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: homem forte e musculoso, cabelos ruivos volumosos e encaracolados, barba ruiva cheia, vestimenta rústica de caçador com couro, arco e aljava; montanhas rochosas representando Seir ao fundo. | Aprovada e baixada |
 
 | 056 | Jacó (Israel) | Versão revisada com proporção padronizada aprovada e download confirmado. Frente e verso com dimensões iguais no padrão vertical 4 × 5,5 cm; cena noturna no rio Jaboque, Jacó lutando com o anjo. | Aprovada e baixada |
+
+| 057 | Lia | Arte aprovada e download confirmado. Retrato em Harã, cabelos escuros longos e trançados, véu dourado e manto vinho. Verso destaca seus seis filhos, Diná e especialmente Judá como elo da linhagem messiânica (Gênesis 49:8–10; Mateus 1:1–3, 16; Lucas 3:33). | Aprovada e baixada |

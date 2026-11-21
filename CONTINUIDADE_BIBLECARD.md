@@ -290,3 +290,11 @@ Pesquisar em cada geração se a esposa é identificada nas Escrituras e se poss
 - **072 — Bate-Seba:** por decisão do usuário, será a próxima carta, antes de Salomão. Pesquisar 2 Samuel 11–12; 1 Reis 1–2; 1 Crônicas 3:5; Mateus 1:6. Retratar sua história com equilíbrio e fidelidade: esposa de Urias, depois esposa de Davi, mãe de Salomão; lembrou Davi do juramento de que Salomão seria rei e tornou-se rainha-mãe. Mateus 1:6 a menciona como “esposa de Urias”. Também teve o filho Natã, antepassado de Maria conforme Lucas 3:31; Salomão pertence à linhagem apresentada em Mateus 1. Arte ainda não iniciada.
 - **073 — Salomão:** próxima carta depois de Bate-Seba. Filho de Davi e Bate-Seba e rei de Israel. Pesquisar 1 Reis 1–11; 1 Crônicas 22–29; Mateus 1:6.
 - Preservar a regra de incluir mulheres relevantes em posição cronológica/genealógica apropriada.
+
+
+## Atualização de continuidade — 21/11/2026 (revisão Hezrom e sequência messiânica)
+- **061 — Hezrom:** substituição aprovada e baixada pelo usuário. A nova versão é a definitiva: rosto mais próximo da referência enviada, cabelo curto escuro e barba mais rala. A versão anterior com barba cheia foi substituída.
+- **072 — Bate-Seba:** frente e verso aprovados e baixados pelo usuário.
+- **073 — Salomão:** arte frente e verso gerada. Houve revisão visual para aproximar os traços da referência mais recente, com cabelo cacheado e barba mais longa e volumosa. Aguardar aprovação e download antes de marcar como concluída.
+- A próxima ação é aguardar a avaliação da carta 073. Preservar a numeração e proporção padronizada dos cards.
+- Manter a regra: verificar a relevância bíblica das esposas e demais mulheres ligadas à linhagem messiânica; quando houver relevância narrativa, histórica ou genealógica, lembrar o usuário e propor carta própria. Não inventar relações.

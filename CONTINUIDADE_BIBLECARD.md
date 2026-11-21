@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 3.1  
+**Versão:** 3.2  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -202,8 +202,12 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 - **055 — Esaú:** arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: homem forte e musculoso, cabelos ruivos volumosos e encaracolados, barba ruiva cheia, vestimenta rústica de caçador com couro, arco e aljava; montanhas rochosas representando Seir ao fundo.
 - **056 — Jacó (Israel):** versão revisada com proporção padronizada aprovada e download confirmado. Frente e verso com dimensões iguais no padrão vertical 4 × 5,5 cm; cena noturna no rio Jaboque, Jacó lutando com o anjo.
 
+
+### Regra obrigatória — linhagem messiânica
+Em cada carta de personagem que integre a genealogia do Messias, indicar explicitamente a contribuição para a linhagem, sem forçar essa conexão em personagens sem descendência genealógica relevante. A linha principal deve ser acompanhada desde Abraão → Isaque → Jacó (Israel) → Judá → Peres → ... → Davi → Jesus Cristo. Usar referências bíblicas adequadas: Mateus 1:1–16; Lucas 3:23–34; Gênesis 49:8–10; Rute 4:18–22. Distinguir a linhagem messiânica da linhagem tribal mais ampla.
+
 ### Próximo personagem
-**057 — Lia.** Filha de Labão, esposa de Jacó e mãe de seis de seus filhos, que se tornaram ancestrais de tribos de Israel. Referências-base: Gênesis 29:16–35; 30:9–21; 31:4–16; 49:29–31. Incluir sua relevância na linhagem e não reduzir sua história apenas à rivalidade com Raquel.
+**057 — Lia.** Filha de Labão, esposa de Jacó e mãe de seis de seus filhos, incluindo Judá, por cuja linhagem veio o Messias. Referências-base: Gênesis 29:16–35; 30:9–21; 35:23; 49:8–10; Mateus 1:2–3. Dar destaque à linhagem messiânica por Judá e não reduzir sua história apenas à rivalidade com Raquel.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 

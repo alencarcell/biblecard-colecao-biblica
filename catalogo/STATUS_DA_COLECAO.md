@@ -181,3 +181,8 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 ## Revisão aprovada — carta 071 (21/11/2026)
 - **071 — Davi:** nova versão da frente e do verso aprovada e download confirmado pelo usuário. Esta revisão substitui a versão visual anterior: traços faciais mais próximos da nova fotografia de referência, cabelo mais cheio em tom ruivo, pele mais clara e sem barba; mantidos traje régio e cenário bíblico coerente. A cena narrativa escolhida anteriormente (Davi enfrentando Golias com a funda) e o conteúdo do verso permanecem vinculados ao relato bíblico. A carta 071 está aprovada e baixada.
 - A sequência do catálogo não retrocede: **075 — Roboão** continua sendo a próxima carta em andamento; depois, lembrar **076 — Maacá** pela relevância bíblica.
+
+
+## Atualização de status — carta 075 (21/11/2026)
+- **075 — Roboão:** frente e verso aprovados pelo usuário. O download não foi confirmado nesta conversa; manter como aprovada, sem marcar como baixada/concluída até confirmação. Cena da assembleia de Siquém, com a delegação do povo, conforme 1 Reis 12:1–24; 2 Crônicas 10–12. 
+- **Próxima carta: 076 — Maacá**, esposa de Roboão e mãe de Abias. Personagem feminina relevante; pesquisar 2 Crônicas 11:20–22; 15:16; 1 Reis 15:9–13 antes de definir o conteúdo e a arte.

@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 046 — Serugue  
-**Próxima prevista:** 047 — Naor (filho de Serugue)
+**Última carta aprovada:** 047 — Naor (filho de Serugue)  
+**Próxima prevista:** 048 — Tera
 
 ## Legenda de status
 - Planejamento
@@ -38,6 +38,7 @@
 | 044 | Pelegue | Versão revisada aprovada e download confirmado. Posição espelhada: rosto voltado à esquerda, cabeça levemente baixa e olhar de canto para cima; sem bandana, entradas acentuadas/calvície parcial, cicatriz discreta na bochecha, bochechas aprofundadas e pele um pouco mais clara. Cenário de Babel e dispersão. | Aprovada e baixada |
 | 045 | Reú | Arte aprovada e download confirmado. Senhor idoso de aparência amigável e agradável, cabelos e barba brancos, vestimenta azul-turquesa; cenário externo com caravana aproximando-se de povoado. Aparência artística, sem descrição física bíblica. | Aprovada e baixada |
 | 046 | Serugue | Arte aprovada e download confirmado. Rosto fino, nariz aquilino, cabelos escuros ondulados até os ombros e barba curta; cenário de mercado urbano mesopotâmico. Aparência artística, sem descrição física bíblica. | Aprovada e baixada |
+| 047 | Naor (filho de Serugue) | Arte aprovada e download confirmado. Homem de meia-idade, rosto quadrado, cabelos ondulados parcialmente grisalhos presos atrás, barba curta; rosto e olhar voltados para a esquerda; cenário de povoado mesopotâmico com rebanhos. Aparência artística, sem descrição física bíblica. | Aprovada e baixada |
 
 ## Próximo passo
 
@@ -52,7 +53,8 @@
 - **044 — Pelegue:** versão revisada aprovada e download confirmado.
 - **045 — Reú:** arte aprovada e download confirmado.
 - **046 — Serugue:** arte aprovada e download confirmado.
-- **047 — Naor (filho de Serugue, pai de Tera):** pesquisar Gênesis 11:22–26; 1 Crônicas 1:26–27 e Lucas 3:34–36. Distinguir cuidadosamente do Naor mais jovem, filho de Tera e irmão de Abraão.
+- **047 — Naor (filho de Serugue):** arte aprovada e download confirmado.
+- **048 — Tera:** filho de Naor e pai de Abrão, Naor e Harã. Pesquisar Gênesis 11:24–32; Josué 24:2–3 e 1 Crônicas 1:26–27. Distinguir os dois filhos chamados Naor.
 
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.

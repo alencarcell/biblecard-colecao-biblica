@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 2.2  
+**Versão:** 2.3  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -170,8 +170,12 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 - **047 — Naor (filho de Serugue):** arte aprovada e download confirmado. Homem de meia-idade, rosto quadrado, cabelos ondulados parcialmente grisalhos presos atrás, barba curta; rosto e olhar voltados para a esquerda; cenário de povoado mesopotâmico com rebanhos. Aparência artística, sem descrição física bíblica.
 - **048 — Tera:** versão revisada aprovada e download confirmado. Retrato individual inspirado na referência enviada: homem maduro, barba cheia castanho-acinzentada, lenço envolvendo cabeça e ombros, manto marrom e roupa clara; cajado curvo na mão oposta à versão anterior; cidade de Ur ao fundo, com zigurate, construções e rio. Sem personagens secundários.
 
+### Estado atualizado — cartas 048 e 049
+- **048 — Tera:** versão revisada aprovada e download confirmado. Retrato individual inspirado na referência enviada: homem maduro, barba cheia castanho-acinzentada, lenço envolvendo cabeça e ombros, manto marrom e roupa clara; cajado curvo na mão oposta à versão anterior; cidade de Ur ao fundo, com zigurate, construções e rio. Sem personagens secundários.
+- **049 — Abrão (Abraão):** arte frente e verso aprovada e download confirmado. Aparência inspirada na referência do usuário: barba grisalha, lenço sobre a cabeça e manto; cena de Gênesis 22 com Isaque sobre o altar e anjo intervindo para impedir o sacrifício.
+
 ### Próximo personagem
-**049 — Abrão (Abraão).** Filho de Tera; iniciar a narrativa patriarcal. Referências-base: Gênesis 11:26–32; 12:1–9; 17:1–8; Josué 24:2–3. Observar a mudança de nome de Abrão para Abraão em Gênesis 17:5.
+**050 — Sarai (Sara).** Esposa de Abrão/Abraão; incluir como personagem feminina central da narrativa patriarcal. Referências-base: Gênesis 11:29–31; 12:4–20; 17:15–16; 18:9–15; 21:1–7. Observar a mudança de nome de Sarai para Sara.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -187,7 +191,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue) e 048 — Tera foram aprovadas e baixadas. O próximo é 049 — Abrão (Abraão). Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera e 049 — Abrão (Abraão) foram aprovadas e baixadas. A próxima é 050 — Sarai (Sara). Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

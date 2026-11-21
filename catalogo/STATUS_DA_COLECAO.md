@@ -176,3 +176,8 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 - **075 — Roboão:** frente e verso gerados; aguardando aprovação e confirmação de download. Retrato inspirado na referência facial enviada, com adaptação para a época bíblica; cena principal na assembleia de Siquém, com Roboão diante dos representantes do povo durante a decisão que levou à divisão do reino. Conteúdo baseado no verbete “Roboão” do Estudo Perspicaz das Escrituras e na história bíblica “A divisão do reino”. Referências: 1 Reis 12:1–24; 14:21–31; 2 Crônicas 10–12; Mateus 1:7.
 - **Próxima mulher a considerar: Maacá**, esposa favorita de Roboão e mãe de Abias; foi rainha-mãe e mais tarde removida dessa posição por Asa por causa de um ídolo que ela fez (2 Crônicas 11:20–22; 15:16; 1 Reis 15:9–13). Proposta de carta própria **076 — Maacá**, depois de aprovação de Roboão.
 - **077 — Abias (Abijão):** próximo elo masculino da linhagem real após Roboão; pesquisar 1 Reis 15:1–8; 2 Crônicas 13; Mateus 1:7.
+
+
+## Revisão aprovada — carta 071 (21/11/2026)
+- **071 — Davi:** nova versão da frente e do verso aprovada e download confirmado pelo usuário. Esta revisão substitui a versão visual anterior: traços faciais mais próximos da nova fotografia de referência, cabelo mais cheio em tom ruivo, pele mais clara e sem barba; mantidos traje régio e cenário bíblico coerente. A cena narrativa escolhida anteriormente (Davi enfrentando Golias com a funda) e o conteúdo do verso permanecem vinculados ao relato bíblico. A carta 071 está aprovada e baixada.
+- A sequência do catálogo não retrocede: **075 — Roboão** continua sendo a próxima carta em andamento; depois, lembrar **076 — Maacá** pela relevância bíblica.

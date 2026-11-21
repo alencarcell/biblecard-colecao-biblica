@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 049 — Abrão (Abraão)  
-**Próxima prevista:** 050 — Sarai (Sara)
+**Última carta aprovada:** 050 — Sarai (Sara)  
+**Próxima prevista:** 051 — Ló
 
 ## Legenda de status
 - Planejamento
@@ -57,7 +57,8 @@
 - **047 — Naor (filho de Serugue):** arte aprovada e download confirmado.
 - **048 — Tera:** versão revisada aprovada e download confirmado.
 - **049 — Abrão (Abraão):** arte aprovada e download confirmado. Cena de Gênesis 22 com anjo intervindo; aparência inspirada na referência fornecida pelo usuário.
-- **050 — Sarai (Sara):** esposa de Abrão/Abraão; incluir como personagem feminina central da narrativa patriarcal. Pesquisar Gênesis 11:29–31; 12:4–20; 17:15–16; 18:9–15; 21:1–7. Observar a mudança de nome de Sarai para Sara.
+- **050 — Sarai (Sara):** arte aprovada e download confirmado. Personagem feminina central da narrativa patriarcal.
+- **051 — Ló:** sobrinho de Abrão, filho de Harã. Pesquisar Gênesis 11:27–31; 12:4–5; 13:1–13; 14:1–16; 19:1–29. Diferenciar os fatos bíblicos das reconstruções visuais de Sodoma e da região.
 
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.
@@ -75,3 +76,5 @@
 As personagens femininas serão incluídas desde os primeiros relatos bíblicos, seguindo a ordem cronológica/genealógica. Não serão adiadas até Abraão. Exemplos anteriores a Abraão incluem Eva, Ada, Zilá e Naamá, sempre respeitando o conteúdo efetivamente registrado nas Escrituras.
 
 | 049 | Abrão (Abraão) | Arte frente e verso aprovada e download confirmado. Aparência inspirada na referência do usuário: barba grisalha, lenço sobre a cabeça e manto; cena de Gênesis 22 com Isaque sobre o altar e anjo intervindo para impedir o sacrifício. | Aprovada e baixada |
+
+| 050 | Sarai (Sara) | Arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário, na faixa etária solicitada, com feições embelezadas; cabelos claros ondulados, véu vinho com detalhes dourados e vestimenta vermelha/laranja; acampamento patriarcal ao fundo. | Aprovada e baixada |

@@ -319,3 +319,8 @@ Pesquisar em cada geração se a esposa é identificada nas Escrituras e se poss
 ## Atualização — revisão definitiva da carta 071 (21/11/2026)
 - **071 — Davi:** revisão visual final da frente e do verso aprovada e download confirmado pelo usuário. A nova referência facial foi aplicada com maior semelhança nos traços, cabelo mais cheio em tom ruivo, pele mais clara e sem barba. Mantidos os trajes régios e a ambientação bíblica; a cena de Davi enfrentando Golias e o conteúdo bíblico do verso permanecem. Esta versão substitui a revisão visual anterior e é a versão aprovada definitiva.
 - A atualização de uma carta anterior não altera a sequência atual: **075 — Roboão** permanece como próxima carta em andamento. Após Roboão, lembrar o usuário de **076 — Maacá**, mulher de relevância histórica e genealógica.
+
+
+## Correção de continuidade — carta 075 (21/11/2026)
+- **075 — Roboão:** o usuário confirmou que a frente e o verso já foram aprovados. O download ainda não foi confirmado; manter o status como aprovada, sem presumir que foi baixada.
+- **Próxima carta: 076 — Maacá**, esposa de Roboão e mãe de Abias. Incluir sua relevância histórica e bíblica; pesquisar 2 Crônicas 11:20–22; 15:16; 1 Reis 15:9–13.

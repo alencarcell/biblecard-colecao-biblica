@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 4.4  
+**Versão:** 4.5  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -277,3 +277,10 @@ Pesquisar em cada geração se a esposa é identificada nas Escrituras e se poss
 - **070 — Jessé:** frente e verso aprovados e download confirmado. A frente final segue a referência do usuário com adaptação de época: sem óculos e sem aparelho dentário, cabelos um pouco mais longos e traços inspirados, não idênticos. O verso registra Jessé como pai de Davi e elo da linhagem messiânica (1 Samuel 16:1, 11–13; 1 Crônicas 2:12–15; Rute 4:17, 22; Mateus 1:6). A Bíblia não informa o nome de sua esposa.
 - **Próxima carta: 071 — Davi.** Pesquisar primeiro a linhagem e os relatos bíblicos. Avaliar e lembrar o usuário da relevância de Bate-Seba, especialmente em relação a Salomão e à genealogia de Mateus 1:6.
 - Manter a regra de incluir mulheres que tenham relevância narrativa, genealógica ou histórica; não inventar cônjuges ou detalhes biográficos.
+
+
+## Atualização de continuidade — carta 071
+- **071 — Davi:** frente e verso aprovados e download confirmado pelo usuário. Cena escolhida: Davi lançando a pedra com a funda contra Golias. Aparência inspirada na referência facial enviada, com pele mais clara, cabelo ruivo-claro e vestimenta coerente com o período. O verso resume sua unção, vitória sobre Golias, reinado, estabelecimento de Jerusalém, salmos, qualidades e linhagem messiânica (1 Samuel 16–17; 2 Samuel 5–8; Salmos 23 e 51; Mateus 1:6).
+- **Próxima carta: 072 — Salomão.** Pesquisar a genealogia e os relatos bíblicos antes de propor a arte.
+- **Bate-Seba:** mulher relevante a incluir em carta própria em posição adequada. É mãe de Salomão e Mateus 1:6 a identifica como “a esposa de Urias”. Não omitir sua relevância na continuidade messiânica.
+- Manter a regra de lembrar o usuário das mulheres com relevância narrativa, genealógica ou histórica.

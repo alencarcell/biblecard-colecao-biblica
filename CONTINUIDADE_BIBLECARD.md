@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 4.5  
+**Versão:** 4.6  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -284,3 +284,9 @@ Pesquisar em cada geração se a esposa é identificada nas Escrituras e se poss
 - **Próxima carta: 072 — Salomão.** Pesquisar a genealogia e os relatos bíblicos antes de propor a arte.
 - **Bate-Seba:** mulher relevante a incluir em carta própria em posição adequada. É mãe de Salomão e Mateus 1:6 a identifica como “a esposa de Urias”. Não omitir sua relevância na continuidade messiânica.
 - Manter a regra de lembrar o usuário das mulheres com relevância narrativa, genealógica ou histórica.
+
+
+## Atualização de sequência — cartas 072 e 073
+- **072 — Bate-Seba:** por decisão do usuário, será a próxima carta, antes de Salomão. Pesquisar 2 Samuel 11–12; 1 Reis 1–2; 1 Crônicas 3:5; Mateus 1:6. Retratar sua história com equilíbrio e fidelidade: esposa de Urias, depois esposa de Davi, mãe de Salomão; lembrou Davi do juramento de que Salomão seria rei e tornou-se rainha-mãe. Mateus 1:6 a menciona como “esposa de Urias”. Também teve o filho Natã, antepassado de Maria conforme Lucas 3:31; Salomão pertence à linhagem apresentada em Mateus 1. Arte ainda não iniciada.
+- **073 — Salomão:** próxima carta depois de Bate-Seba. Filho de Davi e Bate-Seba e rei de Israel. Pesquisar 1 Reis 1–11; 1 Crônicas 22–29; Mateus 1:6.
+- Preservar a regra de incluir mulheres relevantes em posição cronológica/genealógica apropriada.

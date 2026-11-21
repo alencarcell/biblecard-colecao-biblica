@@ -1,6 +1,6 @@
 # ARQUIVO MESTRE DE CONTINUIDADE — BIBLECARD
 
-**Versão:** 3.0  
+**Versão:** 3.1  
 **Última atualização registrada:** 21/11/2026  
 **Finalidade:** preservar as decisões editoriais, bíblicas, visuais e operacionais para que a coleção continue em qualquer conversa ou sessão.
 
@@ -198,8 +198,12 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 - **054 — Rebeca:** arte frente e verso aprovada e download confirmado. Jovem de cabelos escuros, expressão delicada, véu bege e vestido azul com detalhes terrosos; cena no poço oferecendo água ao servo de Abraão, com cântaro, camelos e povoado antigo ao fundo.
 - **055 — Esaú:** arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: homem forte e musculoso, cabelos ruivos volumosos e encaracolados, barba ruiva cheia, vestimenta rústica de caçador com couro, arco e aljava; montanhas rochosas representando Seir ao fundo.
 
+### Estado atualizado — cartas 055 e 056
+- **055 — Esaú:** arte frente e verso aprovada e download confirmado. Aparência baseada na referência do usuário: homem forte e musculoso, cabelos ruivos volumosos e encaracolados, barba ruiva cheia, vestimenta rústica de caçador com couro, arco e aljava; montanhas rochosas representando Seir ao fundo.
+- **056 — Jacó (Israel):** versão revisada com proporção padronizada aprovada e download confirmado. Frente e verso com dimensões iguais no padrão vertical 4 × 5,5 cm; cena noturna no rio Jaboque, Jacó lutando com o anjo.
+
 ### Próximo personagem
-**056 — Jacó.** Filho de Isaque e Rebeca, irmão gêmeo de Esaú; mais tarde recebeu o nome Israel. Referências-base: Gênesis 25:19–34; 27:1–45; 28:10–22; 32:24–32; 35:9–15. Abordar a mudança de nome e sua importância na linhagem das 12 tribos.
+**057 — Lia.** Filha de Labão, esposa de Jacó e mãe de seis de seus filhos, que se tornaram ancestrais de tribos de Israel. Referências-base: Gênesis 29:16–35; 30:9–21; 31:4–16; 49:29–31. Incluir sua relevância na linhagem e não reduzir sua história apenas à rivalidade com Raquel.
 
 > Atenção: nomes como Ludim, Anamim, Leabim, Naftuim, Patrusim, Casluim e Caftorim aparecem em uma genealogia de descendentes de Mizraim. Algumas designações podem representar povos ou tribos. Não inventar biografias individuais.
 
@@ -215,7 +219,7 @@ Se o usuário informar problema de download, a carta permanece pendente até que
 
 Copie e envie:
 
-> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A próxima é 056 — Jacó, irmão gêmeo de Esaú, filho de Isaque e Rebeca; mais tarde recebeu o nome Israel. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
+> Vamos continuar o projeto BibleCard. Leia primeiro o arquivo mestre CONTINUIDADE_BIBLECARD.md e o catálogo STATUS_DA_COLECAO.md neste repositório. Preserve todas as regras editoriais e visuais, a ordem cronológica, a numeração e os status. As cartas 035 — Caftorim, 036 — Sídon, 038 — Jebuseus, 039 — Amoritas, 040 — Girgashitas e 041 — Arpaxade foram aprovadas; os downloads de Caftorim, Girgashitas e Arpaxade foram confirmados. A carta 037 — Hete (Heth) ainda aguarda aprovação. A linhagem de Sem que conduz a Abraão está em andamento; as cartas 041 — Arpaxade, 042 — Selá, 043 — Éber, 044 — Pelegue, 045 — Reú, 046 — Serugue, 047 — Naor (filho de Serugue), 048 — Tera, 049 — Abrão (Abraão), 050 — Sarai (Sara), 051 — Ló, 052 — Ismael e 053 — Isaque foram aprovadas e baixadas. A próxima é 057 — Lia, filha de Labão, esposa de Jacó e mãe de seis de seus filhos. Pesquise na TNM e no jw.org antes de propor conteúdo ou aparência. Não avance sem respeitar o fluxo de aprovação.
 
 ---
 

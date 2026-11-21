@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 036 — Sídon  
-**Próxima prevista:** 037 — Hete (Heth)
+**Última carta aprovada:** 038 — Jebuseus  
+**Próxima prevista:** 039 — Amoritas
 
 ## Legenda de status
 - Planejamento
@@ -28,15 +28,15 @@
 | 034 | Casluim | Alto, musculoso, rosto quadrado, mandíbula larga, nariz forte, cabelo ondulado curto escuro, barba cheia; caminhando em povoado antigo com construções de pedra e palmeiras. Pode designar homem ou povo; localização desconhecida. | Arte gerada; aprovação/download não confirmados neste registro |
 | 035 | Caftorim | Frente e verso aprovados pelo usuário, que confirmou o download. Porte mediano, ágil e definido; rosto fino; cabelo longo ondulado parcialmente preso; bigode fino sem barba; porto antigo com embarcações. | Aprovada e baixada |
 | 036 | Sídon | Frente e verso aprovados pelo usuário. Alto, ombros largos e robusto; rosto oval envelhecido; cabelo curto ondulado grisalho; barba longa e volumosa grisalha; muralhas da cidade com vista para o mar. | Aprovada; download não confirmado |
+| 037 | Hete (Heth) | Arte gerada com porte baixo e compacto, musculoso; rosto quadrado, nariz largo e queixo forte; cabelo curto crespo escuro e barba curta; entrada de cidade fortificada. | Aguardando aprovação |
+| 038 | Jebuseus | Segunda versão aprovada pelo usuário. Composição narrativa em plano aberto: homem de corpo inteiro, inclinado, enchendo ânfora em estrutura de água; outras pessoas e cidade fortificada ao fundo. Primeira versão rejeitada por repetição de rosto/pose e substituída. | Aprovada; download não confirmado |
 
 ## Próximo passo
 
-### 037 — Hete (Heth)
-1. Pesquisar Gênesis 10:15 e 1 Crônicas 1:13 na Tradução do Novo Mundo.
-2. Consultar o verbete “Sídon, sidônios” no Estudo Perspicaz das Escrituras e outras publicações pertinentes no jw.org.
-3. Apresentar o contexto ao usuário.
-4. Definir aparência antes de gerar a carta.
-5. Produzir frente e verso e aguardar aprovação.
+### Próximas etapas
+- **037 — Hete (Heth):** arte gerada; aguarda aprovação do usuário.
+- **038 — Jebuseus:** segunda versão aprovada; aguarda confirmação de download para ser marcada como concluída.
+- **039 — Amoritas:** próximo personagem na sequência genealógica de Canaã, após Jebuseus (Gênesis 10:16). Pesquisar antes de definir aparência e produzir a carta.
 
 ## Observações
 - Não marcar cartas como concluídas sem aprovação do usuário e validação do arquivo final.

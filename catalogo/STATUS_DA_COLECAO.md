@@ -1,0 +1,42 @@
+# CATÁLOGO E STATUS — BIBLECARD
+
+**Atualizado:** 21/11/2026  
+**Última carta gerada:** 034 — Casluim  
+**Próxima prevista:** 035 — Caftorim
+
+## Legenda de status
+- Planejamento
+- Pesquisa
+- Aparência definida
+- Arte gerada
+- Aguardando aprovação
+- Aprovada
+- Concluída
+
+## Registro
+
+| Nº | Personagem | Nota de continuidade | Status |
+|---|---|---|---|
+| 001–008 | Cartas iniciais | Registradas anteriormente; preservar e não refazer. Recuperar nomes/detalhes do histórico original antes de editar. | Registradas; detalhes a completar |
+| 027 | Mizraim | Arte gerada anteriormente. | Aprovação não confirmada |
+| 028 | Pute | Foi solicitada nova versão com rosto diferente da anterior. | Revisão gerada; aprovação não confirmada |
+| 029 | Ludim | Biótipo alto/atlético, pele morena escura, cabelo crespo médio; preparando flecha junto à aljava. | Arte gerada; aprovação não confirmada |
+| 030 | Anamim | Queixo fino, nariz pontiagudo e arqueado, pele morena escura; cenário histórico. | Arte gerada; aprovação não confirmada |
+| 031 | Leabim | Alto e esguio, cabelos longos crespos parcialmente presos, barba rala e bigode; versão revisada com rosto mais largo, nariz mais largo/achatado e olhar para o lado oposto. | Revisão gerada; aprovação não confirmada |
+| 032 | Naftuim | Baixo, compacto e robusto; rosto arredondado, cabelo curto crespo volumoso, barba longa; segurando embarcação junto ao rio. Identificação com Delta do Nilo deve ser tratada como provável, não conclusiva. | Arte gerada; aprovação não confirmada |
+| 033 | Patrusim | Alto e magro, rosto comprido, nariz fino, queixo pronunciado, cabelo liso escuro até os ombros; sentado em degraus olhando para frente. Associação ao Alto Egito apresentada como provável. | Arte gerada; aprovação não confirmada |
+| 034 | Casluim | Alto, musculoso, rosto quadrado, mandíbula larga, nariz forte, cabelo ondulado curto escuro, barba cheia; caminhando em povoado antigo com construções de pedra e palmeiras. Pode designar homem ou povo; localização desconhecida. | Arte gerada; download pendente de validação e aprovação |
+
+## Próximo passo
+
+### 035 — Caftorim
+1. Pesquisar Gênesis 10:13, 14 e 1 Crônicas 1:11, 12 na Tradução do Novo Mundo.
+2. Consultar o verbete correspondente no Estudo Perspicaz das Escrituras e outras publicações pertinentes no jw.org.
+3. Apresentar o contexto ao usuário.
+4. Definir aparência antes de gerar a carta.
+5. Produzir frente e verso e aguardar aprovação.
+
+## Observações
+- Não marcar cartas como concluídas sem aprovação do usuário e validação do arquivo final.
+- Não inventar detalhes individuais para nomes que podem representar povos ou tribos.
+- Não refazer as cartas 001–008 sem pedido explícito.

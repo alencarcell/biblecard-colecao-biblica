@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 040 — Girgashitas  
-**Próxima prevista:** 041 — Arpaxade
+**Última carta aprovada:** 041 — Arpaxade  
+**Próxima prevista:** 042 — Selá
 
 ## Legenda de status
 - Planejamento
@@ -32,6 +32,7 @@
 | 038 | Jebuseus | Segunda versão aprovada pelo usuário. Composição narrativa em plano aberto: homem de corpo inteiro, inclinado, enchendo ânfora em estrutura de água; outras pessoas e cidade fortificada ao fundo. Primeira versão rejeitada por repetição de rosto/pose e substituída. | Aprovada; download não confirmado |
 | 039 | Amoritas | Versão revisada aprovada. Biotipo magro e alongado; rosto estreito e envelhecido; barba parcialmente grisalha e cabelos escuros com fios grisalhos. Vestimenta em tons terrosos com padrões geométricos; personagem sentado com cajado, acampamento e rebanhos ao fundo. A primeira composição foi substituída. | Aprovada; download não confirmado |
 | 040 | Girgashitas | Arte aprovada e download confirmado. Composição em oficina de cerâmica: homem de porte esguio, rosto triangular, queixo fino, cabelo crespo curto parcialmente preso e bigode discreto sem barba cheia; trabalhando em peça de cerâmica, forno e oficina ao fundo. | Aprovada e baixada |
+| 041 | Arpaxade | Arte aprovada e download confirmado. Representação artística de patriarca alto e magro, em cenário pós-Dilúvio com família, animais, rio, reconstrução de moradias e arco-íris; contexto simbólico, não evento pessoal descrito no relato. | Aprovada e baixada |
 
 ## Próximo passo
 
@@ -40,7 +41,8 @@
 - **038 — Jebuseus:** segunda versão aprovada; aguarda confirmação de download para ser marcada como concluída.
 - **039 — Amoritas:** versão revisada aprovada; download ainda não confirmado.
 - **040 — Girgashitas:** arte aprovada e download confirmado.
-- **041 — Arpaxade:** próximo personagem, iniciando o foco na linhagem de Sem que conduz a Abraão. Pesquisar Gênesis 10:22, 24; 11:10–13 e 1 Crônicas 1:17–27.
+- **041 — Arpaxade:** arte aprovada e download confirmado.
+- **042 — Selá:** filho de Arpaxade e pai de Éber. Pesquisar Gênesis 10:24; 11:12–15 e 1 Crônicas 1:18, 24.
 
 ## Controle de linhagens genealógicas
 - A partir da carta 041, a sequência principal passa a acompanhar a linhagem direta de Sem até Abraão: Sem → Arpaxade → Selá → Éber → Pelegue → Reú → Serugue → Naor → Tera → Abraão.

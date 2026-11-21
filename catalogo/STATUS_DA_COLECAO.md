@@ -1,8 +1,8 @@
 # CATÁLOGO E STATUS — BIBLECARD
 
 **Atualizado:** 21/11/2026  
-**Última carta aprovada:** 058 — Judá  
-**Próxima prevista:** 059 — Tamar
+**Última carta aprovada:** 059 — Tamar  
+**Próxima prevista:** 060 — Peres
 
 ## Legenda de status
 - Planejamento
@@ -108,4 +108,7 @@ A partir da carta 058, seguir a linha genealógica que conduz a Jesus Cristo, ma
 
 - **057 — Lia:** arte aprovada e download confirmado.
 - **058 — Judá:** arte aprovada e download confirmado.
-- **059 — Tamar:** mulher destacada na genealogia messiânica, nora de Judá e mãe de Peres e Zerá. Pesquisar Gênesis 38:6–30; Rute 4:12, 18; Mateus 1:3. Tratar com cuidado o contexto de Gênesis 38, sem reduzir Tamar ao episódio.
+- **059 — Tamar:** arte aprovada e download confirmado.
+- **060 — Peres:** filho de Judá e Tamar, elo direto da genealogia messiânica. Pesquisar Gênesis 38:27–30; 46:12; Rute 4:12, 18–22; 1 Crônicas 2:4–15; Mateus 1:3–6; Lucas 3:33. Conferir as gerações intermediárias nas genealogias antes de definir os próximos números.
+
+| 059 | Tamar | Arte frente e verso aprovada e download confirmado. Retrato inspirado na referência do usuário: véu vermelho-terracota bordado em dourado, vestimenta azul e creme; cenário ilustrado de povoado antigo, tendas e arquitetura de Canaã. Verso destaca Gênesis 38, o reconhecimento de Judá e a maternidade de Peres e Zerá, com Peres identificado como elo da linhagem messiânica (Rute 4:12, 18; Mateus 1:3). | Aprovada e baixada |
